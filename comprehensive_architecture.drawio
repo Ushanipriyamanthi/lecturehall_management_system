@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2025-03-28T07:45:00.000Z" agent="Mozilla/5.0" version="21.1.1" type="device">
+  <diagram id="comprehensive_system_architecture" name="Comprehensive System Architecture">
+    <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        
+        <!-- Title -->
+        <mxCell id="title" value="Comprehensive Lecture Hall Allocation System Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="800" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Background Container -->
+        <mxCell id="background" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="1090" height="730" as="geometry" />
+        </mxCell>
+        
+        <!-- Client Layer -->
+        <mxCell id="client_layer" value="Client Layer" style="swimlane;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;startSize=30;arcSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="970" height="120" as="geometry" />
+        </mxCell>
+        
+        <!-- Web UI Container -->
+        <mxCell id="web_ui" value="Web Interface" style="swimlane;fontSize=14;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;startSize=30;arcSize=12;fontFamily=Arial;" vertex="1" parent="client_layer">
+          <mxGeometry x="30" y="40" width="400" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- React Frontend -->
+        <mxCell id="react_frontend" value="React Frontend" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Arial;" vertex="1" parent="web_ui">
+          <mxGeometry x="20" y="35" width="100" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Interactive Dashboard -->
+        <mxCell id="dashboard" value="Dashboard" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Arial;" vertex="1" parent="web_ui">
+          <mxGeometry x="150" y="35" width="100" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Admin Panel -->
+        <mxCell id="admin_panel" value="Admin Panel" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Arial;" vertex="1" parent="web_ui">
+          <mxGeometry x="280" y="35" width="100" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Chatbot Interface Container -->
+        <mxCell id="chatbot_container" value="Chatbot Interface" style="swimlane;fontSize=14;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;startSize=30;arcSize=12;fontFamily=Arial;" vertex="1" parent="client_layer">
+          <mxGeometry x="500" y="40" width="400" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- Chat Widget -->
+        <mxCell id="chat_widget" value="Chat Widget" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Arial;" vertex="1" parent="chatbot_container">
+          <mxGeometry x="20" y="35" width="100" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Query Interface -->
+        <mxCell id="query_interface" value="Query Interface" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Arial;" vertex="1" parent="chatbot_container">
+          <mxGeometry x="150" y="35" width="100" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Feedback System -->
+        <mxCell id="feedback_system" value="Feedback System" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Arial;" vertex="1" parent="chatbot_container">
+          <mxGeometry x="280" y="35" width="100" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- API Gateway Layer -->
+        <mxCell id="api_gateway_layer" value="API Gateway Layer" style="swimlane;fontSize=16;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;startSize=30;arcSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="970" height="100" as="geometry" />
+        </mxCell>
+        
+        <!-- REST API Gateway -->
+        <mxCell id="rest_api_gateway" value="REST API Gateway" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontFamily=Arial;" vertex="1" parent="api_gateway_layer">
+          <mxGeometry x="60" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Authentication & Authorization -->
+        <mxCell id="auth_service" value="Authentication &amp; Authorization" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontFamily=Arial;" vertex="1" parent="api_gateway_layer">
+          <mxGeometry x="385" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Request Routing -->
+        <mxCell id="request_routing" value="Request Routing &amp; Load Balancing" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontFamily=Arial;" vertex="1" parent="api_gateway_layer">
+          <mxGeometry x="710" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Services Layer -->
+        <mxCell id="services_layer" value="Services Layer" style="swimlane;fontSize=16;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;startSize=30;arcSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="970" height="100" as="geometry" />
+        </mxCell>
+        
+        <!-- Recommendation Service -->
+        <mxCell id="recommendation_service" value="Recommendation Service" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontFamily=Arial;" vertex="1" parent="services_layer">
+          <mxGeometry x="60" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Scheduling Service -->
+        <mxCell id="scheduling_service" value="Scheduling Service" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontFamily=Arial;" vertex="1" parent="services_layer">
+          <mxGeometry x="245" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Utilization Analysis -->
+        <mxCell id="utilization_service" value="Utilization Analysis" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontFamily=Arial;" vertex="1" parent="services_layer">
+          <mxGeometry x="430" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- User Management -->
+        <mxCell id="user_service" value="User Management" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontFamily=Arial;" vertex="1" parent="services_layer">
+          <mxGeometry x="615" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Reporting Service -->
+        <mxCell id="reporting_service" value="Reporting Service" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontFamily=Arial;" vertex="1" parent="services_layer">
+          <mxGeometry x="800" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Multi-Agent AI System Layer -->
+        <mxCell id="ai_system_layer" value="Multi-Agent AI System Layer" style="swimlane;fontSize=16;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;startSize=30;arcSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="100" y="470" width="970" height="170" as="geometry" />
+        </mxCell>
+        
+        <!-- Supervisor Agent -->
+        <mxCell id="supervisor_agent" value="Supervisor Agent" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontFamily=Arial;fontStyle=1" vertex="1" parent="ai_system_layer">
+          <mxGeometry x="425" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        
+        <!-- MySQL Agent -->
+        <mxCell id="mysql_agent" value="MySQL&#xa;Agent" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontFamily=Arial;" vertex="1" parent="ai_system_layer">
+          <mxGeometry x="100" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- RAG Agent -->
+        <mxCell id="rag_agent" value="RAG&#xa;Agent" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontFamily=Arial;" vertex="1" parent="ai_system_layer">
+          <mxGeometry x="300" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- Google Search Agent -->
+        <mxCell id="search_agent" value="Google Search&#xa;Agent" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontFamily=Arial;" vertex="1" parent="ai_system_layer">
+          <mxGeometry x="550" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- Report Agent -->
+        <mxCell id="report_agent" value="Report&#xa;Agent" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontFamily=Arial;" vertex="1" parent="ai_system_layer">
+          <mxGeometry x="750" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- Supervisor connections -->
+        <mxCell id="supervisor_mysql" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ai_system_layer" source="supervisor_agent" target="mysql_agent">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="150" as="sourcePoint" />
+            <mxPoint x="300" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="supervisor_rag" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ai_system_layer" source="supervisor_agent" target="rag_agent">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="150" as="sourcePoint" />
+            <mxPoint x="300" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="supervisor_search" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ai_system_layer" source="supervisor_agent" target="search_agent">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="150" as="sourcePoint" />
+            <mxPoint x="300" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="supervisor_report" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ai_system_layer" source="supervisor_agent" target="report_agent">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="150" as="sourcePoint" />
+            <mxPoint x="300" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- Data Layer -->
+        <mxCell id="data_layer" value="Data Layer" style="swimlane;fontSize=16;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;startSize=30;arcSize=10;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="100" y="660" width="970" height="100" as="geometry" />
+        </mxCell>
+        
+        <!-- MySQL Database -->
+        <mxCell id="mysql_database" value="MySQL Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;fontFamily=Arial;" vertex="1" parent="data_layer">
+          <mxGeometry x="100" y="35" width="160" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- Tables List -->
+        <mxCell id="database_tables" value="Tables: lecture_halls, schedules, users, utilization_metrics, preferences, feedback, agent_logs" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Arial;" vertex="1" parent="data_layer">
+          <mxGeometry x="270" y="40" width="350" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Model Storage -->
+        <mxCell id="model_storage" value="Model Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;fontFamily=Arial;" vertex="1" parent="data_layer">
+          <mxGeometry x="630" y="35" width="160" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- Document Index -->
+        <mxCell id="document_storage" value="Vector Database &amp; Document Index" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Arial;" vertex="1" parent="data_layer">
+          <mxGeometry x="800" y="55" width="160" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Process Management Layer -->
+        <mxCell id="process_manager" value="PM2 Process Manager" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=16;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry x="385" y="780" width="400" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Connections between layers -->
+        <!-- Client to API -->
+        <mxCell id="client_api_conn" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="client_layer" target="api_gateway_layer">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="350" as="sourcePoint" />
+            <mxPoint x="570" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- API to Services -->
+        <mxCell id="api_services_conn" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="api_gateway_layer" target="services_layer">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="350" as="sourcePoint" />
+            <mxPoint x="570" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- Services to AI -->
+        <mxCell id="services_ai_conn" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="services_layer" target="ai_system_layer">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="350" as="sourcePoint" />
+            <mxPoint x="570" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- AI to Data -->
+        <mxCell id="ai_data_conn" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ai_system_layer" target="data_layer">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="490" as="sourcePoint" />
+            <mxPoint x="570" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- PM2 to All Layers -->
+        <mxCell id="pm2_all_conn" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="process_manager" target="data_layer">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="350" as="sourcePoint" />
+            <mxPoint x="570" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- Legend -->
+        <mxCell id="legend" value="Legend" style="swimlane;fontSize=14;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;startSize=23;fontFamily=Arial;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="230" width="200" height="270" as="geometry" />
+        </mxCell>
+        
+        <!-- Client Component -->
+        <mxCell id="legend_client" value="" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="10" y="35" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_client_text" value="Client Component" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="50" y="32.5" width="140" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Service Component -->
+        <mxCell id="legend_service" value="" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="10" y="60" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_service_text" value="Service Component" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="50" y="57.5" width="140" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Agent -->
+        <mxCell id="legend_agent" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="10" y="85" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_agent_text" value="AI Agent" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="50" y="85" width="140" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Supervisor Agent -->
+        <mxCell id="legend_supervisor" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="10" y="115" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_supervisor_text" value="Supervisor Agent" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="50" y="115" width="140" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Database -->
+        <mxCell id="legend_db" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="12.5" y="145" width="25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_db_text" value="Database" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="50" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Process Manager -->
+        <mxCell id="legend_pm2" value="" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="10" y="185" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_pm2_text" value="PM2 Process Manager" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="50" y="182.5" width="140" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Data Flow -->
+        <mxCell id="legend_flow" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="legend">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="215" as="sourcePoint" />
+            <mxPoint x="40" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="legend_flow_text" value="Data Flow" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="50" y="205" width="140" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Bidirectional Flow -->
+        <mxCell id="legend_biflow" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="legend">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="240" as="sourcePoint" />
+            <mxPoint x="40" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="legend_biflow_text" value="Bidirectional Flow" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" vertex="1" parent="legend">
+          <mxGeometry x="50" y="230" width="140" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Footer -->
+        <mxCell id="footer" value="Comprehensive Lecture Hall Allocation System Architecture - Thesis Project" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=2;fontFamily=Georgia;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="285" y="820" width="600" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

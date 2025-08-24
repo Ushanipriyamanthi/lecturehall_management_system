@@ -1,0 +1,202 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
+  <diagram id="extended_system_architecture" name="Extended Lecture Hall System">
+    <mxGraphModel dx="2100" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ycBQQ7RM65JKeOJIHaoH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="1210" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="title" value="Lecture Hall Allocation System Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1;fontFamily=Georgia;" parent="1" vertex="1">
+          <mxGeometry x="200" y="20" width="700" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="client_layer" value="Client Layer" style="swimlane;fontSize=16;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;startSize=30;fontFamily=Arial;" parent="1" vertex="1">
+          <mxGeometry x="100" y="80" width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="web_browser" value="Web Browser" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=14;fontFamily=Arial;" parent="client_layer" vertex="1">
+          <mxGeometry x="40" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="react_frontend" value="React Frontend" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontFamily=Arial;" parent="client_layer" vertex="1">
+          <mxGeometry x="240" y="50" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dashboard" value="Interactive Dashboard" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontFamily=Arial;" parent="client_layer" vertex="1">
+          <mxGeometry x="460" y="50" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="chatbot_interface" value="Chatbot Interface" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontFamily=Arial;" parent="client_layer" vertex="1">
+          <mxGeometry x="700" y="50" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="application_layer" value="Application Layer" style="swimlane;fontSize=16;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;startSize=30;fontFamily=Arial;" parent="1" vertex="1">
+          <mxGeometry x="100" y="220" width="900" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="backend_services" value="Backend Services" style="swimlane;fontSize=14;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;startSize=30;fontFamily=Arial;" parent="application_layer" vertex="1">
+          <mxGeometry x="20" y="40" width="340" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="rest_api" value="REST API Service" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Arial;" parent="backend_services" vertex="1">
+          <mxGeometry x="30" y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="auth_service" value="Authentication Service" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Arial;" parent="backend_services" vertex="1">
+          <mxGeometry x="30" y="100" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="recommendation_service" value="Recommendation Service" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Arial;" parent="backend_services" vertex="1">
+          <mxGeometry x="30" y="160" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="analysis_service" value="Utilization Analysis Service" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Arial;" parent="backend_services" vertex="1">
+          <mxGeometry x="30" y="220" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="scheduling_service" value="Scheduling Service" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Arial;" parent="backend_services" vertex="1">
+          <mxGeometry x="30" y="280" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="multi_agent_system" value="Multi-Agent AI System" style="swimlane;fontSize=14;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;startSize=30;fontFamily=Arial;" parent="application_layer" vertex="1">
+          <mxGeometry x="380" y="40" width="500" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="agent_bus" value="Agent Communication Bus" style="rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;fontFamily=Arial;" parent="multi_agent_system" vertex="1">
+          <mxGeometry x="30" y="190" width="440" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="agent1" value="Agent 1:&#xa;MySQL Agent" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Arial;" parent="multi_agent_system" vertex="1">
+          <mxGeometry x="50" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="agent2" value="Agent 2:&#xa;RAG Agent" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Arial;" parent="multi_agent_system" vertex="1">
+          <mxGeometry x="190" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="agent3" value="Agent 3:&#xa;Google Search Agent" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Arial;" parent="multi_agent_system" vertex="1">
+          <mxGeometry x="330" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="agent4" value="Agent 4:&#xa;Report Agent" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Arial;" parent="multi_agent_system" vertex="1">
+          <mxGeometry x="110" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="agent5" value="Agent 5:&#xa;Supervisor Agent" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Arial;" parent="multi_agent_system" vertex="1">
+          <mxGeometry x="270" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="agent1_bus" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.159;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="multi_agent_system" source="agent1" target="agent_bus" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="sourcePoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agent2_bus" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.432;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="multi_agent_system" source="agent2" target="agent_bus" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="sourcePoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agent3_bus" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.705;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="multi_agent_system" source="agent3" target="agent_bus" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="sourcePoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agent4_bus" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.296;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="multi_agent_system" source="agent4" target="agent_bus" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="sourcePoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agent5_bus" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.568;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="multi_agent_system" source="agent5" target="agent_bus" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="230" as="sourcePoint" />
+            <mxPoint x="300" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="data_layer" value="Data Layer" style="swimlane;fontSize=16;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;startSize=30;fontFamily=Arial;" parent="1" vertex="1">
+          <mxGeometry x="100" y="660" width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mysql_database" value="MySQL Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;fontFamily=Arial;" parent="data_layer" vertex="1">
+          <mxGeometry x="120" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tables" value="Tables: lecture_halls, schedules, users,&#xa;utilization_metrics, preferences, feedback, agent_logs" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Arial;" parent="data_layer" vertex="1">
+          <mxGeometry x="290" y="50" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="model_storage" value="Model Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;fontFamily=Arial;" parent="data_layer" vertex="1">
+          <mxGeometry x="580" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pm2_manager" value="PM2 Process Manager" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=16;fontFamily=Arial;" parent="1" vertex="1">
+          <mxGeometry x="350" y="800" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="client_app_conn" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="client_layer" target="application_layer" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="app_data_conn" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="data_layer" target="application_layer" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="backend_agent_conn" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="backend_services" target="multi_agent_system" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pm2_app_conn" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="pm2_manager" target="data_layer" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="450" as="sourcePoint" />
+            <mxPoint x="570" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="legend" value="Legend" style="swimlane;fontSize=14;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;startSize=23;fontFamily=Arial;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="80" width="200" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_client" value="" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="10" y="35" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_client_text" value="Client Component" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="50" y="32.5" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_backend" value="" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="10" y="60" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_backend_text" value="Backend Service" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="50" y="57.5" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_agent" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="10" y="85" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_agent_text" value="AI Agent" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="50" y="85" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_supervisor" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="10" y="115" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_supervisor_text" value="Supervisor Agent" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="50" y="115" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_db" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="12.5" y="145" width="25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_db_text" value="Database" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="50" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_pm2" value="" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="10" y="185" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_pm2_text" value="PM2 Process Manager" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="50" y="182.5" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_flow" value="" style="endArrow=classic;html=1;rounded=0;" parent="legend" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="215" as="sourcePoint" />
+            <mxPoint x="40" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="legend_flow_text" value="Data Flow" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="50" y="205" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend_biflow" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="legend" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="240" as="sourcePoint" />
+            <mxPoint x="40" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="legend_biflow_text" value="Bidirectional Flow" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Arial;" parent="legend" vertex="1">
+          <mxGeometry x="50" y="230" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="footer" value="Lecture Hall Allocation System with Multi-Agent AI Architecture - Thesis Project" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=2;fontFamily=Georgia;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="250" y="850" width="600" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

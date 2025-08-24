@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lecture Hall Allocation System</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        .header {
+            padding-bottom: 20px;
+            border-bottom: 1px solid #e5e5e5;
+            margin-bottom: 30px;
+        }
+        .result-box {
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+            display: none;
+        }
+        .allocated {
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+        }
+        .available {
+            background-color: #d4edda;
+            border: 1px solid #c3e6cb;
+        }
+        .recommendation-box {
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+            background-color: #cce5ff;
+            border: 1px solid #b8daff;
+            display: none;
+        }
+        .form-section {
+            margin-bottom: 30px;
+            padding: 20px;
+            border: 1px solid #e5e5e5;
+            border-radius: 5px;
+        }
+        .nav-tabs {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header text-center">
+            <h1>Lecture Hall Allocation System</h1>
+            <p class="lead">Predict availability and get recommendations for lecture halls</p>
+        </div>
+
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="predict-tab" data-bs-toggle="tab" data-bs-target="#predict-tab-pane" type="button" role="tab" aria-controls="predict-tab-pane" aria-selected="true">Predict Availability</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="recommend-tab" data-bs-toggle="tab" data-bs-target="#recommend-tab-pane" type="button" role="tab" aria-controls="recommend-tab-pane" aria-selected="false">Get Recommendations</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="visualize-tab" data-bs-toggle="tab" data-bs-target="#visualize-tab-pane" type="button" role="tab" aria-controls="visualize-tab-pane" aria-selected="false">Visualizations</button>
+            </li>
+        </ul>
+
+        <div class="tab-content" id="myTabContent">
+            <!-- Predict Tab -->
+            <div class="tab-pane fade show active" id="predict-tab-pane" role="tabpanel" aria-labelledby="predict-tab" tabindex="0">
+                <div class="form-section">
+                    <h3>Predict Hall Availability</h3>
+                    <form id="predict-form">
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label for="floor" class="form-label">Floor</label>
+                                <select class="form-select" id="floor" name="floor" required>
+                                    <option value="" selected disabled>Select Floor</option>
+                                    {% for floor in floors %}
+                                    <option value="{{ floor }}">{{ floor }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="hall_no" class="form-label">Hall Number</label>
+                                <select class="form-select" id="hall_no" name="hall_no" required>
+                                    <option value="" selected disabled>Select Hall</option>
+                                    {% for hall in hall_nos %}
+                                    <option value="{{ hall }}">{{ hall }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label for="capacity" class="form-label">Capacity</label>
+                                <input type="number" class="form-control" id="capacity" name="capacity" min="0" required>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="day" class="form-label">Day</label>
+                                <select class="form-select" id="day" name="day" required>
+                                    <option value="" selected disabled>Select Day</option>
+                                    {% for day in days %}
+                                    <option value="{{ day }}">{{ day }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label for="start_time" class="form-label">Start Time</label>
+                                <select class="form-select" id="start_time" name="start_time" required>
+                                    <option value="" selected disabled>Select Start Time</option>
+                                    {% for time_value, time_label in time_slots %}
+                                    <option value="{{ time_label }}">{{ time_label }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="end_time" class="form-label">End Time</label>
+                                <select class="form-select" id="end_time" name="end_time" required>
+                                    <option value="" selected disabled>Select End Time</option>
+                                    {% for time_value, time_label in time_slots %}
+                                    <option value="{{ time_label }}">{{ time_label }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="mb-3 form-check">
+                            <input type="checkbox" class="form-check-input" id="is_tutorial" name="is_tutorial" value="1">
+                            <label class="form-check-label" for="is_tutorial">Tutorial Session</label>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Predict Availability</button>
+                    </form>
+                </div>
+
+                <div id="prediction-result" class="result-box">
+                    <h4>Prediction Result</h4>
+                    <div id="prediction-message"></div>
+                    <div id="prediction-details" class="mt-3"></div>
+                </div>
+            </div>
+
+            <!-- Recommend Tab -->
+            <div class="tab-pane fade" id="recommend-tab-pane" role="tabpanel" aria-labelledby="recommend-tab" tabindex="0">
+                <div class="form-section">
+                    <h3>Get Hall Recommendations</h3>
+                    <form id="recommend-form">
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label for="required_capacity" class="form-label">Required Capacity</label>
+                                <input type="number" class="form-control" id="required_capacity" name="required_capacity" min="0" required>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="recommend_day" class="form-label">Day</label>
+                                <select class="form-select" id="recommend_day" name="day" required>
+                                    <option value="" selected disabled>Select Day</option>
+                                    {% for day in days %}
+                                    <option value="{{ day }}">{{ day }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label for="recommend_start_time" class="form-label">Start Time</label>
+                                <select class="form-select" id="recommend_start_time" name="start_time" required>
+                                    <option value="" selected disabled>Select Start Time</option>
+                                    {% for time_value, time_label in time_slots %}
+                                    <option value="{{ time_label }}">{{ time_label }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="recommend_end_time" class="form-label">End Time</label>
+                                <select class="form-select" id="recommend_end_time" name="end_time" required>
+                                    <option value="" selected disabled>Select End Time</option>
+                                    {% for time_value, time_label in time_slots %}
+                                    <option value="{{ time_label }}">{{ time_label }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label for="prefer_floor" class="form-label">Preferred Floor (Optional)</label>
+                                <select class="form-select" id="prefer_floor" name="prefer_floor">
+                                    <option value="" selected>Any Floor</option>
+                                    {% for floor in floors %}
+                                    <option value="{{ floor }}">{{ floor }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-3 form-check mt-4">
+                                    <input type="checkbox" class="form-check-input" id="recommend_is_tutorial" name="is_tutorial" value="1">
+                                    <label class="form-check-label" for="recommend_is_tutorial">Tutorial Session</label>
+                                </div>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Get Recommendations</button>
+                    </form>
+                </div>
+
+                <div id="recommendation-result" class="recommendation-box">
+                    <h4>Recommended Hall</h4>
+                    <div id="recommendation-details"></div>
+                </div>
+            </div>
+
+            <!-- Visualize Tab -->
+            <div class="tab-pane fade" id="visualize-tab-pane" role="tabpanel" aria-labelledby="visualize-tab" tabindex="0">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="d-grid gap-2">
+                            <a href="/visualizations" class="btn btn-primary">View Visualizations Gallery</a>
+                            <a href="/dashboard" class="btn btn-success">View Interactive Dashboard</a>
+                        </div>
+                        <div class="mt-4">
+                            <h5>Visualization Highlights</h5>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="card mb-4">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Utilization by Day</h5>
+                                            <p class="card-text">Utilization rates of lecture halls across different days of the week.</p>
+                                            <img src="/static/preview_day.jpg" class="img-fluid" alt="Utilization by Day Preview" onerror="this.src='https://via.placeholder.com/400x200?text=Utilization+by+Day'">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card mb-4">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Utilization Heatmap</h5>
+                                            <p class="card-text">Heatmap showing utilization patterns across days and time slots.</p>
+                                            <img src="/static/preview_heatmap.jpg" class="img-fluid" alt="Heatmap Preview" onerror="this.src='https://via.placeholder.com/400x200?text=Utilization+Heatmap'">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer class="mt-5 pt-3 text-muted text-center">
+            <p>&copy; 2025 Lecture Hall Allocation System</p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Predict form submission
+            document.getElementById('predict-form').addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const formData = new FormData(this);
+                
+                // Check if tutorial checkbox is checked
+                const isTutorialChecked = document.getElementById('is_tutorial').checked;
+                if (isTutorialChecked) {
+                    formData.set('is_tutorial', '1');
+                } else {
+                    formData.set('is_tutorial', '0');
+                }
+                
+                fetch('/predict', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.json())
+                .then(data => {
+                    const resultBox = document.getElementById('prediction-result');
+                    const messageElement = document.getElementById('prediction-message');
+                    const detailsElement = document.getElementById('prediction-details');
+                    
+                    resultBox.style.display = 'block';
+                    
+                    if (data.error) {
+                        messageElement.innerHTML = `<div class="alert alert-danger">${data.error}</div>`;
+                        detailsElement.innerHTML = '';
+                        return;
+                    }
+                    
+                    if (data.prediction) {
+                        resultBox.className = 'result-box allocated';
+                        messageElement.innerHTML = `<div class="alert alert-danger">
+                            <strong>Allocated</strong> - This hall is likely to be in use at the specified time.
+                        </div>`;
+                    } else {
+                        resultBox.className = 'result-box available';
+                        messageElement.innerHTML = `<div class="alert alert-success">
+                            <strong>Available</strong> - This hall is likely to be available at the specified time.
+                        </div>`;
+                    }
+                    
+                    detailsElement.innerHTML = `
+                        <p><strong>Probability of being allocated:</strong> ${data.probability_percent}</p>
+                        <p>The prediction is based on historical allocation patterns and may not reflect last-minute changes.</p>
+                    `;
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+            });
+            
+            // Recommend form submission
+            document.getElementById('recommend-form').addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                const formData = new FormData(this);
+                
+                // Check if tutorial checkbox is checked
+                const isTutorialChecked = document.getElementById('recommend_is_tutorial').checked;
+                if (isTutorialChecked) {
+                    formData.set('is_tutorial', '1');
+                } else {
+                    formData.set('is_tutorial', '0');
+                }
+                
+                fetch('/recommend', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.json())
+                .then(data => {
+                    const resultBox = document.getElementById('recommendation-result');
+                    const detailsElement = document.getElementById('recommendation-details');
+                    
+                    resultBox.style.display = 'block';
+                    
+                    if (data.error) {
+                        detailsElement.innerHTML = `<div class="alert alert-danger">${data.error}</div>`;
+                        return;
+                    }
+                    
+                    let availabilityText = "";
+                    if (data.availability_probability !== null) {
+                        availabilityText = `<p><strong>Availability Probability:</strong> ${data.availability_probability.toFixed(2)}%</p>`;
+                    }
+                    
+                    detailsElement.innerHTML = `
+                        <p><strong>Recommended Hall:</strong> ${data.floor} - ${data.hall_no}</p>
+                        <p><strong>Capacity:</strong> ${data.capacity}</p>
+                        <p><strong>Utilization Rate:</strong> ${data.utilization_rate.toFixed(2)}%</p>
+                        ${availabilityText}
+                        <p><strong>Total Slots:</strong> ${data.total_slots}</p>
+                        <p><strong>Currently Allocated Slots:</strong> ${data.allocated_slots}</p>
+                        <p>This recommendation is based on your requirements and the hall's historical usage patterns.</p>
+                    `;
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

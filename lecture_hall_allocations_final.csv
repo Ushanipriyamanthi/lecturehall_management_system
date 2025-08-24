@@ -1,0 +1,1289 @@
+Floor,Hall_No,Capacity,Exam_Capacity,Day,Time_Slot,Allocation,Start_Time,End_Time,Start_Hour,End_Hour,Duration_Hours,Day_Num,Is_Allocated,Course_Code,Group,Is_Tutorial
+FOB,4,500.0,,Monday,09.00 am - 10.00 am, ,09.00 am,10.00 am,9.0,10.0,1.0,0,1,,,0
+FOB,4,500.0,,Monday,10.00 am - 11.00 am, ,10.00 am,11.00 am,10.0,11.0,1.0,0,1,,,0
+FOB,4,500.0,,Monday,11.00 am - 12.00 pm, ,11.00 am,12.00 pm,11.0,12.0,1.0,0,1,,,0
+FOB,4,500.0,,Monday,12.00 pm - 01.00 pm, ,12.00 pm,01.00 pm,12.0,13.0,1.0,0,1,,,0
+FOB,4,500.0,,Monday,01.00 pm - 02.00 pm, ,01.00 pm,02.00 pm,13.0,14.0,1.0,0,1,,,0
+FOB,4,500.0,,Monday,02.00 pm - 03.00 pm, ,02.00 pm,03.00 pm,14.0,15.0,1.0,0,1,,,0
+FOB,4,500.0,,Monday,03.00 pm - 04.00 pm, ,03.00 pm,04.00 pm,15.0,16.0,1.0,0,1,,,0
+FOB,4,500.0,,Monday,04.00 pm - 05.00 pm, ,04.00 pm,05.00 pm,16.0,17.0,1.0,0,1,,,0
+FOB,4,500.0,,Tuesday,09.00 am - 10.00 am, ,09.00 am,10.00 am,9.0,10.0,1.0,1,1,,,0
+FOB,4,500.0,,Tuesday,10.00 am - 11.00 am, ,10.00 am,11.00 am,10.0,11.0,1.0,1,1,,,0
+FOB,4,500.0,,Tuesday,11.00 am - 12.00 pm, ,11.00 am,12.00 pm,11.0,12.0,1.0,1,1,,,0
+FOB,4,500.0,,Tuesday,12.00 pm - 01.00 pm, ,12.00 pm,01.00 pm,12.0,13.0,1.0,1,1,,,0
+FOB,4,500.0,,Tuesday,01.00 pm - 02.00 pm, ,01.00 pm,02.00 pm,13.0,14.0,1.0,1,1,,,0
+FOB,4,500.0,,Tuesday,02.00 pm - 03.00 pm, ,02.00 pm,03.00 pm,14.0,15.0,1.0,1,1,,,0
+FOB,4,500.0,,Tuesday,03.00 pm - 04.00 pm, ,03.00 pm,04.00 pm,15.0,16.0,1.0,1,1,,,0
+FOB,4,500.0,,Tuesday,04.00 pm - 05.00 pm, ,04.00 pm,05.00 pm,16.0,17.0,1.0,1,1,,,0
+FOB,4,500.0,,Wednesday,09.00 am - 10.00 am, ,09.00 am,10.00 am,9.0,10.0,1.0,2,1,,,0
+FOB,4,500.0,,Wednesday,10.00 am - 11.00 am, ,10.00 am,11.00 am,10.0,11.0,1.0,2,1,,,0
+FOB,4,500.0,,Wednesday,11.00 am - 12.00 pm, ,11.00 am,12.00 pm,11.0,12.0,1.0,2,1,,,0
+FOB,4,500.0,,Wednesday,12.00 pm - 01.00 pm, ,12.00 pm,01.00 pm,12.0,13.0,1.0,2,1,,,0
+FOB,4,500.0,,Wednesday,01.00 pm - 02.00 pm,23.2 Group B,01.00 pm,02.00 pm,13.0,14.0,1.0,2,1,23.2,B,0
+FOB,4,500.0,,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+FOB,4,500.0,,Wednesday,03.00 pm - 04.00 pm,22.2/23.1 UGC,03.00 pm,04.00 pm,15.0,16.0,1.0,2,1,22.2,,0
+FOB,4,500.0,,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+FOB,4,500.0,,Thursday,09.00 am - 10.00 am,23.2 Group B,09.00 am,10.00 am,9.0,10.0,1.0,3,1,23.2,B,0
+FOB,4,500.0,,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+FOB,4,500.0,,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+FOB,4,500.0,,Thursday,12.00 pm - 01.00 pm,22.2/23.1 UGC,12.00 pm,01.00 pm,12.0,13.0,1.0,3,1,22.2,,0
+FOB,4,500.0,,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+FOB,4,500.0,,Thursday,02.00 pm - 03.00 pm,23.2 Group B,02.00 pm,03.00 pm,14.0,15.0,1.0,3,1,23.2,B,0
+FOB,4,500.0,,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+FOB,4,500.0,,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+FOB,4,500.0,,Friday,09.00 am - 10.00 am,22.2/23.1 UGC,09.00 am,10.00 am,9.0,10.0,1.0,4,1,22.2,,0
+FOB,4,500.0,,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+FOB,4,500.0,,Friday,11.00 am - 12.00 pm,22.2/23.1 UGC,11.00 am,12.00 pm,11.0,12.0,1.0,4,1,22.2,,0
+FOB,4,500.0,,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+FOB,4,500.0,,Friday,01.00 pm - 02.00 pm,23.2 Group B Tute,01.00 pm,02.00 pm,13.0,14.0,1.0,4,1,23.2,B,1
+FOB,4,500.0,,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+FOB,4,500.0,,Friday,03.00 pm - 04.00 pm,23.2 Group B Tute,03.00 pm,04.00 pm,15.0,16.0,1.0,4,1,23.2,B,1
+FOB,4,500.0,,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+FOB,4,500.0,,Saturday,09.00 am - 10.00 am, ,09.00 am,10.00 am,9.0,10.0,1.0,5,1,,,0
+FOB,4,500.0,,Saturday,10.00 am - 11.00 am, ,10.00 am,11.00 am,10.0,11.0,1.0,5,1,,,0
+FOB,4,500.0,,Saturday,11.00 am - 12.00 pm, ,11.00 am,12.00 pm,11.0,12.0,1.0,5,1,,,0
+FOB,4,500.0,,Saturday,12.00 pm - 01.00 pm, ,12.00 pm,01.00 pm,12.0,13.0,1.0,5,1,,,0
+FOB,4,500.0,,Saturday,01.00 pm - 02.00 pm, ,01.00 pm,02.00 pm,13.0,14.0,1.0,5,1,,,0
+FOB,4,500.0,,Saturday,02.00 pm - 03.00 pm, ,02.00 pm,03.00 pm,14.0,15.0,1.0,5,1,,,0
+FOB,4,500.0,,Saturday,03.00 pm - 04.00 pm, ,03.00 pm,04.00 pm,15.0,16.0,1.0,5,1,,,0
+FOB,4,500.0,,Saturday,04.00 pm - 05.00 pm, ,04.00 pm,05.00 pm,16.0,17.0,1.0,5,1,,,0
+FOB,4,500.0,,Sunday,09.00 am - 10.00 am, ,09.00 am,10.00 am,9.0,10.0,1.0,6,1,,,0
+FOB,4,500.0,,Sunday,10.00 am - 11.00 am, ,10.00 am,11.00 am,10.0,11.0,1.0,6,1,,,0
+FOB,4,500.0,,Sunday,11.00 am - 12.00 pm, ,11.00 am,12.00 pm,11.0,12.0,1.0,6,1,,,0
+FOB,4,500.0,,Sunday,12.00 pm - 01.00 pm, ,12.00 pm,01.00 pm,12.0,13.0,1.0,6,1,,,0
+FOB,4,500.0,,Sunday,01.00 pm - 02.00 pm, ,01.00 pm,02.00 pm,13.0,14.0,1.0,6,1,,,0
+FOB,4,500.0,,Sunday,02.00 pm - 03.00 pm, ,02.00 pm,03.00 pm,14.0,15.0,1.0,6,1,,,0
+FOB,4,500.0,,Sunday,03.00 pm - 04.00 pm, ,03.00 pm,04.00 pm,15.0,16.0,1.0,6,1,,,0
+FOB,4,500.0,,Sunday,04.00 pm - 05.00 pm, ,04.00 pm,05.00 pm,16.0,17.0,1.0,6,1,,,0
+Ground Floor,C2-009,350.0,118.0,Monday,09.00 am - 10.00 am,24.1 Group A,09.00 am,10.00 am,9.0,10.0,1.0,0,1,24.1,A,0
+Ground Floor,C2-009,350.0,118.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+Ground Floor,C2-009,350.0,118.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+Ground Floor,C2-009,350.0,118.0,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+Ground Floor,C2-009,350.0,118.0,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+Ground Floor,C2-009,350.0,118.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+Ground Floor,C2-009,350.0,118.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+Ground Floor,C2-009,350.0,118.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+Ground Floor,C2-009,350.0,118.0,Tuesday,09.00 am - 10.00 am,24.1 Group A,09.00 am,10.00 am,9.0,10.0,1.0,1,1,24.1,A,0
+Ground Floor,C2-009,350.0,118.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+Ground Floor,C2-009,350.0,118.0,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+Ground Floor,C2-009,350.0,118.0,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+Ground Floor,C2-009,350.0,118.0,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+Ground Floor,C2-009,350.0,118.0,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+Ground Floor,C2-009,350.0,118.0,Tuesday,03.00 pm - 04.00 pm,24.1 Group A,03.00 pm,04.00 pm,15.0,16.0,1.0,1,1,24.1,A,0
+Ground Floor,C2-009,350.0,118.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+Ground Floor,C2-009,350.0,118.0,Wednesday,09.00 am - 10.00 am,23.2 Group A1,09.00 am,10.00 am,9.0,10.0,1.0,2,1,23.2,A1,0
+Ground Floor,C2-009,350.0,118.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+Ground Floor,C2-009,350.0,118.0,Wednesday,11.00 am - 12.00 pm,23.2 Group A1,11.00 am,12.00 pm,11.0,12.0,1.0,2,1,23.2,A1,0
+Ground Floor,C2-009,350.0,118.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+Ground Floor,C2-009,350.0,118.0,Wednesday,01.00 pm - 02.00 pm,22.2/23.1 UGC Tute,01.00 pm,02.00 pm,13.0,14.0,1.0,2,1,22.2,,1
+Ground Floor,C2-009,350.0,118.0,Wednesday,02.00 pm - 03.00 pm,23.2 Group A1 Tute,02.00 pm,03.00 pm,14.0,15.0,1.0,2,1,23.2,A1,1
+Ground Floor,C2-009,350.0,118.0,Wednesday,03.00 pm - 04.00 pm,23.2 Group A1 Tute,03.00 pm,04.00 pm,15.0,16.0,1.0,2,1,23.2,A1,1
+Ground Floor,C2-009,350.0,118.0,Wednesday,04.00 pm - 05.00 pm,23.2 Group A1 Tute,04.00 pm,05.00 pm,16.0,17.0,1.0,2,1,23.2,A1,1
+Ground Floor,C2-009,350.0,118.0,Thursday,09.00 am - 10.00 am,24.1 Group A,09.00 am,10.00 am,9.0,10.0,1.0,3,1,24.1,A,0
+Ground Floor,C2-009,350.0,118.0,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+Ground Floor,C2-009,350.0,118.0,Thursday,11.00 am - 12.00 pm,23.2 Group A1,11.00 am,12.00 pm,11.0,12.0,1.0,3,1,23.2,A1,0
+Ground Floor,C2-009,350.0,118.0,Thursday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,3,0,,,0
+Ground Floor,C2-009,350.0,118.0,Thursday,01.00 pm - 02.00 pm,23.2 Group A1,01.00 pm,02.00 pm,13.0,14.0,1.0,3,1,23.2,A1,0
+Ground Floor,C2-009,350.0,118.0,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+Ground Floor,C2-009,350.0,118.0,Thursday,03.00 pm - 04.00 pm,24.1 Group A,03.00 pm,04.00 pm,15.0,16.0,1.0,3,1,24.1,A,0
+Ground Floor,C2-009,350.0,118.0,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+Ground Floor,C2-009,350.0,118.0,Friday,09.00 am - 10.00 am,24.1 Group A,09.00 am,10.00 am,9.0,10.0,1.0,4,1,24.1,A,0
+Ground Floor,C2-009,350.0,118.0,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+Ground Floor,C2-009,350.0,118.0,Friday,11.00 am - 12.00 pm,23.2 Group A1,11.00 am,12.00 pm,11.0,12.0,1.0,4,1,23.2,A1,0
+Ground Floor,C2-009,350.0,118.0,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+Ground Floor,C2-009,350.0,118.0,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+Ground Floor,C2-009,350.0,118.0,Friday,02.00 pm - 03.00 pm,22.2/23.1 UGC Tute,02.00 pm,03.00 pm,14.0,15.0,1.0,4,1,22.2,,1
+Ground Floor,C2-009,350.0,118.0,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+Ground Floor,C2-009,350.0,118.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+Ground Floor,C2-009,350.0,118.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+Ground Floor,C2-009,350.0,118.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+Ground Floor,C2-009,350.0,118.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+Ground Floor,C2-009,350.0,118.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+Ground Floor,C2-009,350.0,118.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+Ground Floor,C2-009,350.0,118.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+Ground Floor,C2-009,350.0,118.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+Ground Floor,C2-009,350.0,118.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+Ground Floor,C2-009,350.0,118.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+Ground Floor,C2-009,350.0,118.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+Ground Floor,C2-009,350.0,118.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+Ground Floor,C2-009,350.0,118.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+Ground Floor,C2-009,350.0,118.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+Ground Floor,C2-009,350.0,118.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+Ground Floor,C2-009,350.0,118.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+Ground Floor,C2-009,350.0,118.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+Ground Floor,C2-002,250.0,80.0,Monday,09.00 am - 10.00 am,24.1 Group B,09.00 am,10.00 am,9.0,10.0,1.0,0,1,24.1,B,0
+Ground Floor,C2-002,250.0,80.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+Ground Floor,C2-002,250.0,80.0,Monday,11.00 am - 12.00 pm,23.4/24.1 FDN,11.00 am,12.00 pm,11.0,12.0,1.0,0,1,23.4,,0
+Ground Floor,C2-002,250.0,80.0,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+Ground Floor,C2-002,250.0,80.0,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+Ground Floor,C2-002,250.0,80.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+Ground Floor,C2-002,250.0,80.0,Monday,03.00 pm - 04.00 pm,23.4/24.1 FDN,03.00 pm,04.00 pm,15.0,16.0,1.0,0,1,23.4,,0
+Ground Floor,C2-002,250.0,80.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+Ground Floor,C2-002,250.0,80.0,Tuesday,09.00 am - 10.00 am,24.1 Group B,09.00 am,10.00 am,9.0,10.0,1.0,1,1,24.1,B,0
+Ground Floor,C2-002,250.0,80.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+Ground Floor,C2-002,250.0,80.0,Tuesday,11.00 am - 12.00 pm,23.4/24.1 FDN,11.00 am,12.00 pm,11.0,12.0,1.0,1,1,23.4,,0
+Ground Floor,C2-002,250.0,80.0,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+Ground Floor,C2-002,250.0,80.0,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+Ground Floor,C2-002,250.0,80.0,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+Ground Floor,C2-002,250.0,80.0,Tuesday,03.00 pm - 04.00 pm,23.4/24.1 FDN,03.00 pm,04.00 pm,15.0,16.0,1.0,1,1,23.4,,0
+Ground Floor,C2-002,250.0,80.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+Ground Floor,C2-002,250.0,80.0,Wednesday,09.00 am - 10.00 am,23.2 Group A2,09.00 am,10.00 am,9.0,10.0,1.0,2,1,23.2,A2,0
+Ground Floor,C2-002,250.0,80.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+Ground Floor,C2-002,250.0,80.0,Wednesday,11.00 am - 12.00 pm,23.2 Group A2,11.00 am,12.00 pm,11.0,12.0,1.0,2,1,23.2,A2,0
+Ground Floor,C2-002,250.0,80.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+Ground Floor,C2-002,250.0,80.0,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+Ground Floor,C2-002,250.0,80.0,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+Ground Floor,C2-002,250.0,80.0,Wednesday,03.00 pm - 04.00 pm,23.2 Group A2,03.00 pm,04.00 pm,15.0,16.0,1.0,2,1,23.2,A2,0
+Ground Floor,C2-002,250.0,80.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+Ground Floor,C2-002,250.0,80.0,Thursday,09.00 am - 10.00 am,24.1 Group B,09.00 am,10.00 am,9.0,10.0,1.0,3,1,24.1,B,0
+Ground Floor,C2-002,250.0,80.0,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+Ground Floor,C2-002,250.0,80.0,Thursday,11.00 am - 12.00 pm,23.2 Group A2 Tute,11.00 am,12.00 pm,11.0,12.0,1.0,3,1,23.2,A2,1
+Ground Floor,C2-002,250.0,80.0,Thursday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,3,0,,,0
+Ground Floor,C2-002,250.0,80.0,Thursday,01.00 pm - 02.00 pm,23.1 PLY ,01.00 pm,02.00 pm,13.0,14.0,1.0,3,1,23.1,,0
+Ground Floor,C2-002,250.0,80.0,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+Ground Floor,C2-002,250.0,80.0,Thursday,03.00 pm - 04.00 pm,24.1 Group B,03.00 pm,04.00 pm,15.0,16.0,1.0,3,1,24.1,B,0
+Ground Floor,C2-002,250.0,80.0,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+Ground Floor,C2-002,250.0,80.0,Friday,09.00 am - 10.00 am,24.1 Group B,09.00 am,10.00 am,9.0,10.0,1.0,4,1,24.1,B,0
+Ground Floor,C2-002,250.0,80.0,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+Ground Floor,C2-002,250.0,80.0,Friday,11.00 am - 12.00 pm,23.2 Group A2,11.00 am,12.00 pm,11.0,12.0,1.0,4,1,23.2,A2,0
+Ground Floor,C2-002,250.0,80.0,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+Ground Floor,C2-002,250.0,80.0,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+Ground Floor,C2-002,250.0,80.0,Friday,02.00 pm - 03.00 pm,23.2 Group A2,02.00 pm,03.00 pm,14.0,15.0,1.0,4,1,23.2,A2,0
+Ground Floor,C2-002,250.0,80.0,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+Ground Floor,C2-002,250.0,80.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+Ground Floor,C2-002,250.0,80.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+Ground Floor,C2-002,250.0,80.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+Ground Floor,C2-002,250.0,80.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+Ground Floor,C2-002,250.0,80.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+Ground Floor,C2-002,250.0,80.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+Ground Floor,C2-002,250.0,80.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+Ground Floor,C2-002,250.0,80.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+Ground Floor,C2-002,250.0,80.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+Ground Floor,C2-002,250.0,80.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+Ground Floor,C2-002,250.0,80.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+Ground Floor,C2-002,250.0,80.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+Ground Floor,C2-002,250.0,80.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+Ground Floor,C2-002,250.0,80.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+Ground Floor,C2-002,250.0,80.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+Ground Floor,C2-002,250.0,80.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+Ground Floor,C2-002,250.0,80.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+Ground Floor,C2-003,120.0,50.0,Monday,09.00 am - 10.00 am,21.2/22.1 UGC,09.00 am,10.00 am,9.0,10.0,1.0,0,1,21.2,,0
+Ground Floor,C2-003,120.0,50.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+Ground Floor,C2-003,120.0,50.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+Ground Floor,C2-003,120.0,50.0,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+Ground Floor,C2-003,120.0,50.0,Monday,01.00 pm - 02.00 pm,21.2/22.1 UGC,01.00 pm,02.00 pm,13.0,14.0,1.0,0,1,21.2,,0
+Ground Floor,C2-003,120.0,50.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+Ground Floor,C2-003,120.0,50.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+Ground Floor,C2-003,120.0,50.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+Ground Floor,C2-003,120.0,50.0,Tuesday,09.00 am - 10.00 am,21.2/22.1 UGC,09.00 am,10.00 am,9.0,10.0,1.0,1,1,21.2,,0
+Ground Floor,C2-003,120.0,50.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+Ground Floor,C2-003,120.0,50.0,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+Ground Floor,C2-003,120.0,50.0,Tuesday,12.00 pm - 01.00 pm,24.1 Group B Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,1,1,24.1,B,1
+Ground Floor,C2-003,120.0,50.0,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+Ground Floor,C2-003,120.0,50.0,Tuesday,02.00 pm - 03.00 pm,21.2/22.1 UGC,02.00 pm,03.00 pm,14.0,15.0,1.0,1,1,21.2,,0
+Ground Floor,C2-003,120.0,50.0,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+Ground Floor,C2-003,120.0,50.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+Ground Floor,C2-003,120.0,50.0,Wednesday,09.00 am - 10.00 am,21.2/22.1 UGC,09.00 am,10.00 am,9.0,10.0,1.0,2,1,21.2,,0
+Ground Floor,C2-003,120.0,50.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+Ground Floor,C2-003,120.0,50.0,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+Ground Floor,C2-003,120.0,50.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+Ground Floor,C2-003,120.0,50.0,Wednesday,01.00 pm - 02.00 pm,21.2/22.1 UGC,01.00 pm,02.00 pm,13.0,14.0,1.0,2,1,21.2,,0
+Ground Floor,C2-003,120.0,50.0,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+Ground Floor,C2-003,120.0,50.0,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+Ground Floor,C2-003,120.0,50.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+Ground Floor,C2-003,120.0,50.0,Thursday,09.00 am - 10.00 am,21.2/22.1 UGC,09.00 am,10.00 am,9.0,10.0,1.0,3,1,21.2,,0
+Ground Floor,C2-003,120.0,50.0,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+Ground Floor,C2-003,120.0,50.0,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+Ground Floor,C2-003,120.0,50.0,Thursday,12.00 pm - 01.00 pm,24.1 Group A Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,3,1,24.1,A,1
+Ground Floor,C2-003,120.0,50.0,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+Ground Floor,C2-003,120.0,50.0,Thursday,02.00 pm - 03.00 pm,21.2/22.1 UGC,02.00 pm,03.00 pm,14.0,15.0,1.0,3,1,21.2,,0
+Ground Floor,C2-003,120.0,50.0,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+Ground Floor,C2-003,120.0,50.0,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+Ground Floor,C2-003,120.0,50.0,Friday,09.00 am - 10.00 am,21.2/22.1 UGC,09.00 am,10.00 am,9.0,10.0,1.0,4,1,21.2,,0
+Ground Floor,C2-003,120.0,50.0,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+Ground Floor,C2-003,120.0,50.0,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+Ground Floor,C2-003,120.0,50.0,Friday,12.00 pm - 01.00 pm,24.1 Group B,12.00 pm,01.00 pm,12.0,13.0,1.0,4,1,24.1,B,0
+Ground Floor,C2-003,120.0,50.0,Friday,01.00 pm - 02.00 pm,24.1 Group B,01.00 pm,02.00 pm,13.0,14.0,1.0,4,1,24.1,B,0
+Ground Floor,C2-003,120.0,50.0,Friday,02.00 pm - 03.00 pm,21.2/22.1 UGC,02.00 pm,03.00 pm,14.0,15.0,1.0,4,1,21.2,,0
+Ground Floor,C2-003,120.0,50.0,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+Ground Floor,C2-003,120.0,50.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+Ground Floor,C2-003,120.0,50.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+Ground Floor,C2-003,120.0,50.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+Ground Floor,C2-003,120.0,50.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+Ground Floor,C2-003,120.0,50.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+Ground Floor,C2-003,120.0,50.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+Ground Floor,C2-003,120.0,50.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+Ground Floor,C2-003,120.0,50.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+Ground Floor,C2-003,120.0,50.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+Ground Floor,C2-003,120.0,50.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+Ground Floor,C2-003,120.0,50.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+Ground Floor,C2-003,120.0,50.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+Ground Floor,C2-003,120.0,50.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+Ground Floor,C2-003,120.0,50.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+Ground Floor,C2-003,120.0,50.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+Ground Floor,C2-003,120.0,50.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+Ground Floor,C2-003,120.0,50.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+Ground Floor,C2-005,50.0,,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+Ground Floor,C2-005,50.0,,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+Ground Floor,C2-005,50.0,,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+Ground Floor,C2-005,50.0,,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+Ground Floor,C2-005,50.0,,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+Ground Floor,C2-005,50.0,,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+Ground Floor,C2-005,50.0,,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+Ground Floor,C2-005,50.0,,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+Ground Floor,C2-005,50.0,,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+Ground Floor,C2-005,50.0,,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+Ground Floor,C2-005,50.0,,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+Ground Floor,C2-005,50.0,,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+Ground Floor,C2-005,50.0,,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+Ground Floor,C2-005,50.0,,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+Ground Floor,C2-005,50.0,,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+Ground Floor,C2-005,50.0,,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+Ground Floor,C2-005,50.0,,Wednesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,2,0,,,0
+Ground Floor,C2-005,50.0,,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+Ground Floor,C2-005,50.0,,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+Ground Floor,C2-005,50.0,,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+Ground Floor,C2-005,50.0,,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+Ground Floor,C2-005,50.0,,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+Ground Floor,C2-005,50.0,,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+Ground Floor,C2-005,50.0,,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+Ground Floor,C2-005,50.0,,Thursday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,3,0,,,0
+Ground Floor,C2-005,50.0,,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+Ground Floor,C2-005,50.0,,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+Ground Floor,C2-005,50.0,,Thursday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,3,0,,,0
+Ground Floor,C2-005,50.0,,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+Ground Floor,C2-005,50.0,,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+Ground Floor,C2-005,50.0,,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+Ground Floor,C2-005,50.0,,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+Ground Floor,C2-005,50.0,,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+Ground Floor,C2-005,50.0,,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+Ground Floor,C2-005,50.0,,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+Ground Floor,C2-005,50.0,,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+Ground Floor,C2-005,50.0,,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+Ground Floor,C2-005,50.0,,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+Ground Floor,C2-005,50.0,,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+Ground Floor,C2-005,50.0,,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+Ground Floor,C2-005,50.0,,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+Ground Floor,C2-005,50.0,,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+Ground Floor,C2-005,50.0,,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+Ground Floor,C2-005,50.0,,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+Ground Floor,C2-005,50.0,,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+Ground Floor,C2-005,50.0,,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+Ground Floor,C2-005,50.0,,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+Ground Floor,C2-005,50.0,,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+Ground Floor,C2-005,50.0,,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+Ground Floor,C2-005,50.0,,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+Ground Floor,C2-005,50.0,,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+Ground Floor,C2-005,50.0,,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+Ground Floor,C2-005,50.0,,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+Ground Floor,C2-005,50.0,,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+Ground Floor,C2-005,50.0,,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+Ground Floor,C2-005,50.0,,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+Ground Floor,C2-006,50.0,,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+Ground Floor,C2-006,50.0,,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+Ground Floor,C2-006,50.0,,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+Ground Floor,C2-006,50.0,,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+Ground Floor,C2-006,50.0,,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+Ground Floor,C2-006,50.0,,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+Ground Floor,C2-006,50.0,,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+Ground Floor,C2-006,50.0,,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+Ground Floor,C2-006,50.0,,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+Ground Floor,C2-006,50.0,,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+Ground Floor,C2-006,50.0,,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+Ground Floor,C2-006,50.0,,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+Ground Floor,C2-006,50.0,,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+Ground Floor,C2-006,50.0,,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+Ground Floor,C2-006,50.0,,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+Ground Floor,C2-006,50.0,,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+Ground Floor,C2-006,50.0,,Wednesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,2,0,,,0
+Ground Floor,C2-006,50.0,,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+Ground Floor,C2-006,50.0,,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+Ground Floor,C2-006,50.0,,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+Ground Floor,C2-006,50.0,,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+Ground Floor,C2-006,50.0,,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+Ground Floor,C2-006,50.0,,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+Ground Floor,C2-006,50.0,,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+Ground Floor,C2-006,50.0,,Thursday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,3,0,,,0
+Ground Floor,C2-006,50.0,,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+Ground Floor,C2-006,50.0,,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+Ground Floor,C2-006,50.0,,Thursday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,3,0,,,0
+Ground Floor,C2-006,50.0,,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+Ground Floor,C2-006,50.0,,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+Ground Floor,C2-006,50.0,,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+Ground Floor,C2-006,50.0,,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+Ground Floor,C2-006,50.0,,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+Ground Floor,C2-006,50.0,,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+Ground Floor,C2-006,50.0,,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+Ground Floor,C2-006,50.0,,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+Ground Floor,C2-006,50.0,,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+Ground Floor,C2-006,50.0,,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+Ground Floor,C2-006,50.0,,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+Ground Floor,C2-006,50.0,,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+Ground Floor,C2-006,50.0,,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+Ground Floor,C2-006,50.0,,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+Ground Floor,C2-006,50.0,,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+Ground Floor,C2-006,50.0,,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+Ground Floor,C2-006,50.0,,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+Ground Floor,C2-006,50.0,,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+Ground Floor,C2-006,50.0,,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+Ground Floor,C2-006,50.0,,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+Ground Floor,C2-006,50.0,,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+Ground Floor,C2-006,50.0,,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+Ground Floor,C2-006,50.0,,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+Ground Floor,C2-006,50.0,,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+Ground Floor,C2-006,50.0,,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+Ground Floor,C2-006,50.0,,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+Ground Floor,C2-006,50.0,,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+Ground Floor,C2-006,50.0,,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+Ground Floor,C2-007,50.0,40.0,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+Ground Floor,C2-007,50.0,40.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+Ground Floor,C2-007,50.0,40.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+Ground Floor,C2-007,50.0,40.0,Monday,12.00 pm - 01.00 pm,24.1 Group A Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,0,1,24.1,A,1
+Ground Floor,C2-007,50.0,40.0,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+Ground Floor,C2-007,50.0,40.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+Ground Floor,C2-007,50.0,40.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+Ground Floor,C2-007,50.0,40.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+Ground Floor,C2-007,50.0,40.0,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+Ground Floor,C2-007,50.0,40.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+Ground Floor,C2-007,50.0,40.0,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+Ground Floor,C2-007,50.0,40.0,Tuesday,12.00 pm - 01.00 pm,24.1 Group B Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,1,1,24.1,B,1
+Ground Floor,C2-007,50.0,40.0,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+Ground Floor,C2-007,50.0,40.0,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+Ground Floor,C2-007,50.0,40.0,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+Ground Floor,C2-007,50.0,40.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+Ground Floor,C2-007,50.0,40.0,Wednesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,2,0,,,0
+Ground Floor,C2-007,50.0,40.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+Ground Floor,C2-007,50.0,40.0,Wednesday,11.00 am - 12.00 pm,23.2 Group B,11.00 am,12.00 pm,11.0,12.0,1.0,2,1,23.2,B,0
+Ground Floor,C2-007,50.0,40.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+Ground Floor,C2-007,50.0,40.0,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+Ground Floor,C2-007,50.0,40.0,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+Ground Floor,C2-007,50.0,40.0,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+Ground Floor,C2-007,50.0,40.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+Ground Floor,C2-007,50.0,40.0,Thursday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,3,0,,,0
+Ground Floor,C2-007,50.0,40.0,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+Ground Floor,C2-007,50.0,40.0,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+Ground Floor,C2-007,50.0,40.0,Thursday,12.00 pm - 01.00 pm,24.1 Group A Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,3,1,24.1,A,1
+Ground Floor,C2-007,50.0,40.0,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+Ground Floor,C2-007,50.0,40.0,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+Ground Floor,C2-007,50.0,40.0,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+Ground Floor,C2-007,50.0,40.0,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+Ground Floor,C2-007,50.0,40.0,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+Ground Floor,C2-007,50.0,40.0,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+Ground Floor,C2-007,50.0,40.0,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+Ground Floor,C2-007,50.0,40.0,Friday,12.00 pm - 01.00 pm,24.1 Group B,12.00 pm,01.00 pm,12.0,13.0,1.0,4,1,24.1,B,0
+Ground Floor,C2-007,50.0,40.0,Friday,01.00 pm - 02.00 pm,24.1 Group B,01.00 pm,02.00 pm,13.0,14.0,1.0,4,1,24.1,B,0
+Ground Floor,C2-007,50.0,40.0,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+Ground Floor,C2-007,50.0,40.0,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+Ground Floor,C2-007,50.0,40.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+Ground Floor,C2-007,50.0,40.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+Ground Floor,C2-007,50.0,40.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+Ground Floor,C2-007,50.0,40.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+Ground Floor,C2-007,50.0,40.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+Ground Floor,C2-007,50.0,40.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+Ground Floor,C2-007,50.0,40.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+Ground Floor,C2-007,50.0,40.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+Ground Floor,C2-007,50.0,40.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+Ground Floor,C2-007,50.0,40.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+Ground Floor,C2-007,50.0,40.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+Ground Floor,C2-007,50.0,40.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+Ground Floor,C2-007,50.0,40.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+Ground Floor,C2-007,50.0,40.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+Ground Floor,C2-007,50.0,40.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+Ground Floor,C2-007,50.0,40.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+Ground Floor,C2-007,50.0,40.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+Ground Floor,C2-008,50.0,40.0,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+Ground Floor,C2-008,50.0,40.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+Ground Floor,C2-008,50.0,40.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+Ground Floor,C2-008,50.0,40.0,Monday,12.00 pm - 01.00 pm,24.1 Group A Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,0,1,24.1,A,1
+Ground Floor,C2-008,50.0,40.0,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+Ground Floor,C2-008,50.0,40.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+Ground Floor,C2-008,50.0,40.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+Ground Floor,C2-008,50.0,40.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+Ground Floor,C2-008,50.0,40.0,Tuesday,09.00 am - 10.00 am,22.2/23.1 UGC,09.00 am,10.00 am,9.0,10.0,1.0,1,1,22.2,,0
+Ground Floor,C2-008,50.0,40.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+Ground Floor,C2-008,50.0,40.0,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+Ground Floor,C2-008,50.0,40.0,Tuesday,12.00 pm - 01.00 pm,24.1 Group B Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,1,1,24.1,B,1
+Ground Floor,C2-008,50.0,40.0,Tuesday,01.00 pm - 02.00 pm,22.2/23.1 UGC,01.00 pm,02.00 pm,13.0,14.0,1.0,1,1,22.2,,0
+Ground Floor,C2-008,50.0,40.0,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+Ground Floor,C2-008,50.0,40.0,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+Ground Floor,C2-008,50.0,40.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+Ground Floor,C2-008,50.0,40.0,Wednesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,2,0,,,0
+Ground Floor,C2-008,50.0,40.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+Ground Floor,C2-008,50.0,40.0,Wednesday,11.00 am - 12.00 pm,23.2 Group B,11.00 am,12.00 pm,11.0,12.0,1.0,2,1,23.2,B,0
+Ground Floor,C2-008,50.0,40.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+Ground Floor,C2-008,50.0,40.0,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+Ground Floor,C2-008,50.0,40.0,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+Ground Floor,C2-008,50.0,40.0,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+Ground Floor,C2-008,50.0,40.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+Ground Floor,C2-008,50.0,40.0,Thursday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,3,0,,,0
+Ground Floor,C2-008,50.0,40.0,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+Ground Floor,C2-008,50.0,40.0,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+Ground Floor,C2-008,50.0,40.0,Thursday,12.00 pm - 01.00 pm,24.1 Group A Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,3,1,24.1,A,1
+Ground Floor,C2-008,50.0,40.0,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+Ground Floor,C2-008,50.0,40.0,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+Ground Floor,C2-008,50.0,40.0,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+Ground Floor,C2-008,50.0,40.0,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+Ground Floor,C2-008,50.0,40.0,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+Ground Floor,C2-008,50.0,40.0,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+Ground Floor,C2-008,50.0,40.0,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+Ground Floor,C2-008,50.0,40.0,Friday,12.00 pm - 01.00 pm,24.1 Group B,12.00 pm,01.00 pm,12.0,13.0,1.0,4,1,24.1,B,0
+Ground Floor,C2-008,50.0,40.0,Friday,01.00 pm - 02.00 pm,24.1 Group B,01.00 pm,02.00 pm,13.0,14.0,1.0,4,1,24.1,B,0
+Ground Floor,C2-008,50.0,40.0,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+Ground Floor,C2-008,50.0,40.0,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+Ground Floor,C2-008,50.0,40.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+Ground Floor,C2-008,50.0,40.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+Ground Floor,C2-008,50.0,40.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+Ground Floor,C2-008,50.0,40.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+Ground Floor,C2-008,50.0,40.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+Ground Floor,C2-008,50.0,40.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+Ground Floor,C2-008,50.0,40.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+Ground Floor,C2-008,50.0,40.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+Ground Floor,C2-008,50.0,40.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+Ground Floor,C2-008,50.0,40.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+Ground Floor,C2-008,50.0,40.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+Ground Floor,C2-008,50.0,40.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+Ground Floor,C2-008,50.0,40.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+Ground Floor,C2-008,50.0,40.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+Ground Floor,C2-008,50.0,40.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+Ground Floor,C2-008,50.0,40.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+Ground Floor,C2-008,50.0,40.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Tuesday,01.00 pm - 02.00 pm,22.2/23.1 UGC,01.00 pm,02.00 pm,13.0,14.0,1.0,1,1,22.2,,0
+B1 Floor,C2-L101,175.0,70.0,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Wednesday,09.00 am - 10.00 am,22.2/23.1 UGC,09.00 am,10.00 am,9.0,10.0,1.0,2,1,22.2,,0
+B1 Floor,C2-L101,175.0,70.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Wednesday,02.00 pm - 03.00 pm,22.2/23.1 UGC Tute,02.00 pm,03.00 pm,14.0,15.0,1.0,2,1,22.2,,1
+B1 Floor,C2-L101,175.0,70.0,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Thursday,09.00 am - 10.00 am,22.2/23.1 UGC Tute,09.00 am,10.00 am,9.0,10.0,1.0,3,1,22.2,,1
+B1 Floor,C2-L101,175.0,70.0,Thursday,10.00 am - 11.00 am,23.1 PLY ,10.00 am,11.00 am,10.0,11.0,1.0,3,1,23.1,,0
+B1 Floor,C2-L101,175.0,70.0,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Thursday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,3,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Thursday,02.00 pm - 03.00 pm,22.2/23.1 UGC,02.00 pm,03.00 pm,14.0,15.0,1.0,3,1,22.2,,0
+B1 Floor,C2-L101,175.0,70.0,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Friday,09.00 am - 10.00 am,23.2 Group B Tute,09.00 am,10.00 am,9.0,10.0,1.0,4,1,23.2,B,1
+B1 Floor,C2-L101,175.0,70.0,Friday,10.00 am - 11.00 am,23.2 Group B Tute,10.00 am,11.00 am,10.0,11.0,1.0,4,1,23.2,B,1
+B1 Floor,C2-L101,175.0,70.0,Friday,11.00 am - 12.00 pm,23.2 Group B Tute,11.00 am,12.00 pm,11.0,12.0,1.0,4,1,23.2,B,1
+B1 Floor,C2-L101,175.0,70.0,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B1 Floor,C2-L101,175.0,70.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Tuesday,09.00 am - 10.00 am,Bridging 23.2,09.00 am,10.00 am,9.0,10.0,1.0,1,1,23.2,,0
+B1 Floor,C2-L102,175.0,70.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Tuesday,11.00 am - 12.00 pm,Bridging 23.2,11.00 am,12.00 pm,11.0,12.0,1.0,1,1,23.2,,0
+B1 Floor,C2-L102,175.0,70.0,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Tuesday,02.00 pm - 03.00 pm,Bridging 23.2,02.00 pm,03.00 pm,14.0,15.0,1.0,1,1,23.2,,0
+B1 Floor,C2-L102,175.0,70.0,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Wednesday,09.00 am - 10.00 am,Bridging 23.2,09.00 am,10.00 am,9.0,10.0,1.0,2,1,23.2,,0
+B1 Floor,C2-L102,175.0,70.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Wednesday,01.00 pm - 02.00 pm,22.2/23.1 UGC Tute,01.00 pm,02.00 pm,13.0,14.0,1.0,2,1,22.2,,1
+B1 Floor,C2-L102,175.0,70.0,Wednesday,02.00 pm - 03.00 pm,22.2/23.1 UGC Tute,02.00 pm,03.00 pm,14.0,15.0,1.0,2,1,22.2,,1
+B1 Floor,C2-L102,175.0,70.0,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Thursday,09.00 am - 10.00 am,22.2/23.1 UGC Tute,09.00 am,10.00 am,9.0,10.0,1.0,3,1,22.2,,1
+B1 Floor,C2-L102,175.0,70.0,Thursday,10.00 am - 11.00 am,23.1 PLY ,10.00 am,11.00 am,10.0,11.0,1.0,3,1,23.1,,0
+B1 Floor,C2-L102,175.0,70.0,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Thursday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,3,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Friday,09.00 am - 10.00 am,23.2 Group B Tute,09.00 am,10.00 am,9.0,10.0,1.0,4,1,23.2,B,1
+B1 Floor,C2-L102,175.0,70.0,Friday,10.00 am - 11.00 am,23.2 Group B Tute,10.00 am,11.00 am,10.0,11.0,1.0,4,1,23.2,B,1
+B1 Floor,C2-L102,175.0,70.0,Friday,11.00 am - 12.00 pm,23.2 Group B Tute,11.00 am,12.00 pm,11.0,12.0,1.0,4,1,23.2,B,1
+B1 Floor,C2-L102,175.0,70.0,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B1 Floor,C2-L102,175.0,70.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B1 Floor,C2-L104,50.0,,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B1 Floor,C2-L104,50.0,,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B1 Floor,C2-L104,50.0,,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B1 Floor,C2-L104,50.0,,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+B1 Floor,C2-L104,50.0,,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B1 Floor,C2-L104,50.0,,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B1 Floor,C2-L104,50.0,,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B1 Floor,C2-L104,50.0,,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B1 Floor,C2-L104,50.0,,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+B1 Floor,C2-L104,50.0,,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B1 Floor,C2-L104,50.0,,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+B1 Floor,C2-L104,50.0,,Tuesday,12.00 pm - 01.00 pm,24.1 Group B Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,1,1,24.1,B,1
+B1 Floor,C2-L104,50.0,,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+B1 Floor,C2-L104,50.0,,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B1 Floor,C2-L104,50.0,,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B1 Floor,C2-L104,50.0,,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B1 Floor,C2-L104,50.0,,Wednesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,2,0,,,0
+B1 Floor,C2-L104,50.0,,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B1 Floor,C2-L104,50.0,,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B1 Floor,C2-L104,50.0,,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B1 Floor,C2-L104,50.0,,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B1 Floor,C2-L104,50.0,,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+B1 Floor,C2-L104,50.0,,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+B1 Floor,C2-L104,50.0,,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B1 Floor,C2-L104,50.0,,Thursday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,3,0,,,0
+B1 Floor,C2-L104,50.0,,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+B1 Floor,C2-L104,50.0,,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B1 Floor,C2-L104,50.0,,Thursday,12.00 pm - 01.00 pm,24.1 Group A Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,3,1,24.1,A,1
+B1 Floor,C2-L104,50.0,,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B1 Floor,C2-L104,50.0,,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+B1 Floor,C2-L104,50.0,,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+B1 Floor,C2-L104,50.0,,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+B1 Floor,C2-L104,50.0,,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+B1 Floor,C2-L104,50.0,,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+B1 Floor,C2-L104,50.0,,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+B1 Floor,C2-L104,50.0,,Friday,12.00 pm - 01.00 pm,24.1 Group B,12.00 pm,01.00 pm,12.0,13.0,1.0,4,1,24.1,B,0
+B1 Floor,C2-L104,50.0,,Friday,01.00 pm - 02.00 pm,24.1 Group B,01.00 pm,02.00 pm,13.0,14.0,1.0,4,1,24.1,B,0
+B1 Floor,C2-L104,50.0,,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B1 Floor,C2-L104,50.0,,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+B1 Floor,C2-L104,50.0,,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B1 Floor,C2-L104,50.0,,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B1 Floor,C2-L104,50.0,,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B1 Floor,C2-L104,50.0,,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B1 Floor,C2-L104,50.0,,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B1 Floor,C2-L104,50.0,,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B1 Floor,C2-L104,50.0,,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B1 Floor,C2-L104,50.0,,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B1 Floor,C2-L104,50.0,,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B1 Floor,C2-L104,50.0,,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B1 Floor,C2-L104,50.0,,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B1 Floor,C2-L104,50.0,,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B1 Floor,C2-L104,50.0,,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B1 Floor,C2-L104,50.0,,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B1 Floor,C2-L104,50.0,,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B1 Floor,C2-L104,50.0,,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B1 Floor,C2-L104,50.0,,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B1 Floor,C2-L105,100.0,,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B1 Floor,C2-L105,100.0,,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B1 Floor,C2-L105,100.0,,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B1 Floor,C2-L105,100.0,,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+B1 Floor,C2-L105,100.0,,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B1 Floor,C2-L105,100.0,,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B1 Floor,C2-L105,100.0,,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B1 Floor,C2-L105,100.0,,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B1 Floor,C2-L105,100.0,,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+B1 Floor,C2-L105,100.0,,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B1 Floor,C2-L105,100.0,,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+B1 Floor,C2-L105,100.0,,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+B1 Floor,C2-L105,100.0,,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+B1 Floor,C2-L105,100.0,,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B1 Floor,C2-L105,100.0,,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B1 Floor,C2-L105,100.0,,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B1 Floor,C2-L105,100.0,,Wednesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,2,0,,,0
+B1 Floor,C2-L105,100.0,,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B1 Floor,C2-L105,100.0,,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B1 Floor,C2-L105,100.0,,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B1 Floor,C2-L105,100.0,,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B1 Floor,C2-L105,100.0,,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+B1 Floor,C2-L105,100.0,,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+B1 Floor,C2-L105,100.0,,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B1 Floor,C2-L105,100.0,,Thursday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,3,0,,,0
+B1 Floor,C2-L105,100.0,,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+B1 Floor,C2-L105,100.0,,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B1 Floor,C2-L105,100.0,,Thursday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,3,0,,,0
+B1 Floor,C2-L105,100.0,,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B1 Floor,C2-L105,100.0,,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+B1 Floor,C2-L105,100.0,,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+B1 Floor,C2-L105,100.0,,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+B1 Floor,C2-L105,100.0,,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+B1 Floor,C2-L105,100.0,,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+B1 Floor,C2-L105,100.0,,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+B1 Floor,C2-L105,100.0,,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+B1 Floor,C2-L105,100.0,,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+B1 Floor,C2-L105,100.0,,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B1 Floor,C2-L105,100.0,,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+B1 Floor,C2-L105,100.0,,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B1 Floor,C2-L105,100.0,,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B1 Floor,C2-L105,100.0,,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B1 Floor,C2-L105,100.0,,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B1 Floor,C2-L105,100.0,,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B1 Floor,C2-L105,100.0,,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B1 Floor,C2-L105,100.0,,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B1 Floor,C2-L105,100.0,,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B1 Floor,C2-L105,100.0,,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B1 Floor,C2-L105,100.0,,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B1 Floor,C2-L105,100.0,,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B1 Floor,C2-L105,100.0,,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B1 Floor,C2-L105,100.0,,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B1 Floor,C2-L105,100.0,,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B1 Floor,C2-L105,100.0,,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B1 Floor,C2-L105,100.0,,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B1 Floor,C2-L105,100.0,,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Wednesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,2,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Thursday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,3,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Thursday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,3,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Thursday,04.00 pm - 05.00 pm,23.2 Group A2 Tute,04.00 pm,05.00 pm,16.0,17.0,1.0,3,1,23.2,A2,1
+B1 Floor,C2-L110,150.0,78.0,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B1 Floor,C2-L110,150.0,78.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B1 Floor,C2-L109,,,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B1 Floor,C2-L109,,,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B1 Floor,C2-L109,,,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B1 Floor,C2-L109,,,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+B1 Floor,C2-L109,,,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B1 Floor,C2-L109,,,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B1 Floor,C2-L109,,,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B1 Floor,C2-L109,,,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B1 Floor,C2-L109,,,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+B1 Floor,C2-L109,,,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B1 Floor,C2-L109,,,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+B1 Floor,C2-L109,,,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+B1 Floor,C2-L109,,,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+B1 Floor,C2-L109,,,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B1 Floor,C2-L109,,,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B1 Floor,C2-L109,,,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B1 Floor,C2-L109,,,Wednesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,2,0,,,0
+B1 Floor,C2-L109,,,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B1 Floor,C2-L109,,,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B1 Floor,C2-L109,,,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B1 Floor,C2-L109,,,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B1 Floor,C2-L109,,,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+B1 Floor,C2-L109,,,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+B1 Floor,C2-L109,,,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B1 Floor,C2-L109,,,Thursday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,3,0,,,0
+B1 Floor,C2-L109,,,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+B1 Floor,C2-L109,,,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B1 Floor,C2-L109,,,Thursday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,3,0,,,0
+B1 Floor,C2-L109,,,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B1 Floor,C2-L109,,,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+B1 Floor,C2-L109,,,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+B1 Floor,C2-L109,,,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+B1 Floor,C2-L109,,,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+B1 Floor,C2-L109,,,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+B1 Floor,C2-L109,,,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+B1 Floor,C2-L109,,,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+B1 Floor,C2-L109,,,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+B1 Floor,C2-L109,,,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B1 Floor,C2-L109,,,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+B1 Floor,C2-L109,,,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B1 Floor,C2-L109,,,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B1 Floor,C2-L109,,,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B1 Floor,C2-L109,,,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B1 Floor,C2-L109,,,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B1 Floor,C2-L109,,,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B1 Floor,C2-L109,,,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B1 Floor,C2-L109,,,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B1 Floor,C2-L109,,,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B1 Floor,C2-L109,,,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B1 Floor,C2-L109,,,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B1 Floor,C2-L109,,,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B1 Floor,C2-L109,,,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B1 Floor,C2-L109,,,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B1 Floor,C2-L109,,,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B1 Floor,C2-L109,,,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B1 Floor,C2-L109,,,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Monday,12.00 pm - 01.00 pm,24.1 Group A Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,0,1,24.1,A,1
+B1 Floor,C2-L106,50.0,40.0,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Tuesday,11.00 am - 12.00 pm,24.1 Group A,11.00 am,12.00 pm,11.0,12.0,1.0,1,1,24.1,A,0
+B1 Floor,C2-L106,50.0,40.0,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Wednesday,09.00 am - 10.00 am,23.1 PLY ,09.00 am,10.00 am,9.0,10.0,1.0,2,1,23.1,,0
+B1 Floor,C2-L106,50.0,40.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Wednesday,03.00 pm - 04.00 pm,23.2 Group B,03.00 pm,04.00 pm,15.0,16.0,1.0,2,1,23.2,B,0
+B1 Floor,C2-L106,50.0,40.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Thursday,09.00 am - 10.00 am,23.2 Group A2,09.00 am,10.00 am,9.0,10.0,1.0,3,1,23.2,A2,0
+B1 Floor,C2-L106,50.0,40.0,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Thursday,12.00 pm - 01.00 pm,24.1 Group B,12.00 pm,01.00 pm,12.0,13.0,1.0,3,1,24.1,B,0
+B1 Floor,C2-L106,50.0,40.0,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Thursday,03.00 pm - 04.00 pm,23.4/24.1 FDN,03.00 pm,04.00 pm,15.0,16.0,1.0,3,1,23.4,,0
+B1 Floor,C2-L106,50.0,40.0,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Friday,11.00 am - 12.00 pm,22.2/23.1 UGC,11.00 am,12.00 pm,11.0,12.0,1.0,4,1,22.2,,0
+B1 Floor,C2-L106,50.0,40.0,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Friday,03.00 pm - 04.00 pm,23.2 Group A1,03.00 pm,04.00 pm,15.0,16.0,1.0,4,1,23.2,A1,0
+B1 Floor,C2-L106,50.0,40.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B1 Floor,C2-L106,50.0,40.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Monday,12.00 pm - 01.00 pm,24.1 Group A Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,0,1,24.1,A,1
+B1 Floor,C2-L107,50.0,40.0,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Tuesday,11.00 am - 12.00 pm,24.1 Group A,11.00 am,12.00 pm,11.0,12.0,1.0,1,1,24.1,A,0
+B1 Floor,C2-L107,50.0,40.0,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Wednesday,09.00 am - 10.00 am,23.1 PLY ,09.00 am,10.00 am,9.0,10.0,1.0,2,1,23.1,,0
+B1 Floor,C2-L107,50.0,40.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Wednesday,03.00 pm - 04.00 pm,23.2 Group B,03.00 pm,04.00 pm,15.0,16.0,1.0,2,1,23.2,B,0
+B1 Floor,C2-L107,50.0,40.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Thursday,09.00 am - 10.00 am,23.2 Group A2,09.00 am,10.00 am,9.0,10.0,1.0,3,1,23.2,A2,0
+B1 Floor,C2-L107,50.0,40.0,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Thursday,12.00 pm - 01.00 pm,24.1 Group B,12.00 pm,01.00 pm,12.0,13.0,1.0,3,1,24.1,B,0
+B1 Floor,C2-L107,50.0,40.0,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Thursday,03.00 pm - 04.00 pm,23.4/24.1 FDN,03.00 pm,04.00 pm,15.0,16.0,1.0,3,1,23.4,,0
+B1 Floor,C2-L107,50.0,40.0,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Friday,03.00 pm - 04.00 pm,23.2 Group A1,03.00 pm,04.00 pm,15.0,16.0,1.0,4,1,23.2,A1,0
+B1 Floor,C2-L107,50.0,40.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B1 Floor,C2-L107,50.0,40.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B2 Floor,C2-L202,50.0,,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B2 Floor,C2-L202,50.0,,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B2 Floor,C2-L202,50.0,,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B2 Floor,C2-L202,50.0,,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+B2 Floor,C2-L202,50.0,,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B2 Floor,C2-L202,50.0,,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B2 Floor,C2-L202,50.0,,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B2 Floor,C2-L202,50.0,,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B2 Floor,C2-L202,50.0,,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+B2 Floor,C2-L202,50.0,,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B2 Floor,C2-L202,50.0,,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+B2 Floor,C2-L202,50.0,,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+B2 Floor,C2-L202,50.0,,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+B2 Floor,C2-L202,50.0,,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B2 Floor,C2-L202,50.0,,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B2 Floor,C2-L202,50.0,,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B2 Floor,C2-L202,50.0,,Wednesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,2,0,,,0
+B2 Floor,C2-L202,50.0,,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B2 Floor,C2-L202,50.0,,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B2 Floor,C2-L202,50.0,,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B2 Floor,C2-L202,50.0,,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B2 Floor,C2-L202,50.0,,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+B2 Floor,C2-L202,50.0,,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+B2 Floor,C2-L202,50.0,,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B2 Floor,C2-L202,50.0,,Thursday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,3,0,,,0
+B2 Floor,C2-L202,50.0,,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+B2 Floor,C2-L202,50.0,,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B2 Floor,C2-L202,50.0,,Thursday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,3,0,,,0
+B2 Floor,C2-L202,50.0,,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B2 Floor,C2-L202,50.0,,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+B2 Floor,C2-L202,50.0,,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+B2 Floor,C2-L202,50.0,,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+B2 Floor,C2-L202,50.0,,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+B2 Floor,C2-L202,50.0,,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+B2 Floor,C2-L202,50.0,,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+B2 Floor,C2-L202,50.0,,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+B2 Floor,C2-L202,50.0,,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+B2 Floor,C2-L202,50.0,,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B2 Floor,C2-L202,50.0,,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+B2 Floor,C2-L202,50.0,,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B2 Floor,C2-L202,50.0,,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B2 Floor,C2-L202,50.0,,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B2 Floor,C2-L202,50.0,,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B2 Floor,C2-L202,50.0,,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B2 Floor,C2-L202,50.0,,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B2 Floor,C2-L202,50.0,,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B2 Floor,C2-L202,50.0,,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B2 Floor,C2-L202,50.0,,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B2 Floor,C2-L202,50.0,,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B2 Floor,C2-L202,50.0,,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B2 Floor,C2-L202,50.0,,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B2 Floor,C2-L202,50.0,,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B2 Floor,C2-L202,50.0,,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B2 Floor,C2-L202,50.0,,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B2 Floor,C2-L202,50.0,,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B2 Floor,C2-L202,50.0,,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B2 Floor,C2-L203,50.0,,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B2 Floor,C2-L203,50.0,,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B2 Floor,C2-L203,50.0,,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B2 Floor,C2-L203,50.0,,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+B2 Floor,C2-L203,50.0,,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B2 Floor,C2-L203,50.0,,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B2 Floor,C2-L203,50.0,,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B2 Floor,C2-L203,50.0,,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B2 Floor,C2-L203,50.0,,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+B2 Floor,C2-L203,50.0,,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B2 Floor,C2-L203,50.0,,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+B2 Floor,C2-L203,50.0,,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+B2 Floor,C2-L203,50.0,,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+B2 Floor,C2-L203,50.0,,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B2 Floor,C2-L203,50.0,,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B2 Floor,C2-L203,50.0,,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B2 Floor,C2-L203,50.0,,Wednesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,2,0,,,0
+B2 Floor,C2-L203,50.0,,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B2 Floor,C2-L203,50.0,,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B2 Floor,C2-L203,50.0,,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B2 Floor,C2-L203,50.0,,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B2 Floor,C2-L203,50.0,,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+B2 Floor,C2-L203,50.0,,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+B2 Floor,C2-L203,50.0,,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B2 Floor,C2-L203,50.0,,Thursday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,3,0,,,0
+B2 Floor,C2-L203,50.0,,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+B2 Floor,C2-L203,50.0,,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B2 Floor,C2-L203,50.0,,Thursday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,3,0,,,0
+B2 Floor,C2-L203,50.0,,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B2 Floor,C2-L203,50.0,,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+B2 Floor,C2-L203,50.0,,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+B2 Floor,C2-L203,50.0,,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+B2 Floor,C2-L203,50.0,,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+B2 Floor,C2-L203,50.0,,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+B2 Floor,C2-L203,50.0,,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+B2 Floor,C2-L203,50.0,,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+B2 Floor,C2-L203,50.0,,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+B2 Floor,C2-L203,50.0,,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B2 Floor,C2-L203,50.0,,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+B2 Floor,C2-L203,50.0,,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B2 Floor,C2-L203,50.0,,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B2 Floor,C2-L203,50.0,,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B2 Floor,C2-L203,50.0,,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B2 Floor,C2-L203,50.0,,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B2 Floor,C2-L203,50.0,,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B2 Floor,C2-L203,50.0,,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B2 Floor,C2-L203,50.0,,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B2 Floor,C2-L203,50.0,,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B2 Floor,C2-L203,50.0,,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B2 Floor,C2-L203,50.0,,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B2 Floor,C2-L203,50.0,,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B2 Floor,C2-L203,50.0,,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B2 Floor,C2-L203,50.0,,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B2 Floor,C2-L203,50.0,,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B2 Floor,C2-L203,50.0,,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B2 Floor,C2-L203,50.0,,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Monday,12.00 pm - 01.00 pm,24.1 Group A Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,0,1,24.1,A,1
+B2 Floor,C2-L204,50.0,40.0,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Tuesday,11.00 am - 12.00 pm,24.1 Group A,11.00 am,12.00 pm,11.0,12.0,1.0,1,1,24.1,A,0
+B2 Floor,C2-L204,50.0,40.0,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Wednesday,09.00 am - 10.00 am,23.1 PLY ,09.00 am,10.00 am,9.0,10.0,1.0,2,1,23.1,,0
+B2 Floor,C2-L204,50.0,40.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Wednesday,03.00 pm - 04.00 pm,23.2 Group B,03.00 pm,04.00 pm,15.0,16.0,1.0,2,1,23.2,B,0
+B2 Floor,C2-L204,50.0,40.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Thursday,09.00 am - 10.00 am,23.2 Group A2,09.00 am,10.00 am,9.0,10.0,1.0,3,1,23.2,A2,0
+B2 Floor,C2-L204,50.0,40.0,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Thursday,12.00 pm - 01.00 pm,24.1 Group B,12.00 pm,01.00 pm,12.0,13.0,1.0,3,1,24.1,B,0
+B2 Floor,C2-L204,50.0,40.0,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Thursday,03.00 pm - 04.00 pm,23.4/24.1 FDN,03.00 pm,04.00 pm,15.0,16.0,1.0,3,1,23.4,,0
+B2 Floor,C2-L204,50.0,40.0,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Friday,03.00 pm - 04.00 pm,23.2 Group A1,03.00 pm,04.00 pm,15.0,16.0,1.0,4,1,23.2,A1,0
+B2 Floor,C2-L204,50.0,40.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B2 Floor,C2-L204,50.0,40.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Tuesday,11.00 am - 12.00 pm,24.1 Group A,11.00 am,12.00 pm,11.0,12.0,1.0,1,1,24.1,A,0
+B2 Floor,C2-L205,50.0,40.0,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Wednesday,09.00 am - 10.00 am,23.1 PLY ,09.00 am,10.00 am,9.0,10.0,1.0,2,1,23.1,,0
+B2 Floor,C2-L205,50.0,40.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Wednesday,03.00 pm - 04.00 pm,23.2 Group B,03.00 pm,04.00 pm,15.0,16.0,1.0,2,1,23.2,B,0
+B2 Floor,C2-L205,50.0,40.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Thursday,09.00 am - 10.00 am,23.2 Group A2,09.00 am,10.00 am,9.0,10.0,1.0,3,1,23.2,A2,0
+B2 Floor,C2-L205,50.0,40.0,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Thursday,12.00 pm - 01.00 pm,24.1 Group B,12.00 pm,01.00 pm,12.0,13.0,1.0,3,1,24.1,B,0
+B2 Floor,C2-L205,50.0,40.0,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Thursday,03.00 pm - 04.00 pm,23.4/24.1 FDN,03.00 pm,04.00 pm,15.0,16.0,1.0,3,1,23.4,,0
+B2 Floor,C2-L205,50.0,40.0,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Friday,03.00 pm - 04.00 pm,23.2 Group A1,03.00 pm,04.00 pm,15.0,16.0,1.0,4,1,23.2,A1,0
+B2 Floor,C2-L205,50.0,40.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B2 Floor,C2-L205,50.0,40.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B2 Floor,C2-105,200.0,40.0,Monday,09.00 am - 10.00 am,ADCERT 23.2,09.00 am,10.00 am,9.0,10.0,1.0,0,1,23.2,,0
+B2 Floor,C2-105,200.0,40.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B2 Floor,C2-105,200.0,40.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B2 Floor,C2-105,200.0,40.0,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+B2 Floor,C2-105,200.0,40.0,Monday,01.00 pm - 02.00 pm,ADCERT 23.2,01.00 pm,02.00 pm,13.0,14.0,1.0,0,1,23.2,,0
+B2 Floor,C2-105,200.0,40.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B2 Floor,C2-105,200.0,40.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B2 Floor,C2-105,200.0,40.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B2 Floor,C2-105,200.0,40.0,Tuesday,09.00 am - 10.00 am,ADCERT 23.2,09.00 am,10.00 am,9.0,10.0,1.0,1,1,23.2,,0
+B2 Floor,C2-105,200.0,40.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B2 Floor,C2-105,200.0,40.0,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+B2 Floor,C2-105,200.0,40.0,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+B2 Floor,C2-105,200.0,40.0,Tuesday,01.00 pm - 02.00 pm,ADCERT 23.2,01.00 pm,02.00 pm,13.0,14.0,1.0,1,1,23.2,,0
+B2 Floor,C2-105,200.0,40.0,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B2 Floor,C2-105,200.0,40.0,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B2 Floor,C2-105,200.0,40.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B2 Floor,C2-105,200.0,40.0,Wednesday,09.00 am - 10.00 am,23.4/24.1 FDN,09.00 am,10.00 am,9.0,10.0,1.0,2,1,23.4,,0
+B2 Floor,C2-105,200.0,40.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B2 Floor,C2-105,200.0,40.0,Wednesday,11.00 am - 12.00 pm,23.4/24.1 FDN,11.00 am,12.00 pm,11.0,12.0,1.0,2,1,23.4,,0
+B2 Floor,C2-105,200.0,40.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B2 Floor,C2-105,200.0,40.0,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B2 Floor,C2-105,200.0,40.0,Wednesday,02.00 pm - 03.00 pm,23.4/24.1 FDN,02.00 pm,03.00 pm,14.0,15.0,1.0,2,1,23.4,,0
+B2 Floor,C2-105,200.0,40.0,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+B2 Floor,C2-105,200.0,40.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B2 Floor,C2-105,200.0,40.0,Thursday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,3,0,,,0
+B2 Floor,C2-105,200.0,40.0,Thursday,10.00 am - 11.00 am,22.2/23.1 UGC Tute,10.00 am,11.00 am,10.0,11.0,1.0,3,1,22.2,,1
+B2 Floor,C2-105,200.0,40.0,Thursday,11.00 am - 12.00 pm,23.4/24.1 FDN,11.00 am,12.00 pm,11.0,12.0,1.0,3,1,23.4,,0
+B2 Floor,C2-105,200.0,40.0,Thursday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,3,0,,,0
+B2 Floor,C2-105,200.0,40.0,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B2 Floor,C2-105,200.0,40.0,Thursday,02.00 pm - 03.00 pm,23.2 Group A2 Tute,02.00 pm,03.00 pm,14.0,15.0,1.0,3,1,23.2,A2,1
+B2 Floor,C2-105,200.0,40.0,Thursday,03.00 pm - 04.00 pm,23.2 Group A2 Tute,03.00 pm,04.00 pm,15.0,16.0,1.0,3,1,23.2,A2,1
+B2 Floor,C2-105,200.0,40.0,Thursday,04.00 pm - 05.00 pm,23.2 Group A1 Tute,04.00 pm,05.00 pm,16.0,17.0,1.0,3,1,23.2,A1,1
+B2 Floor,C2-105,200.0,40.0,Friday,09.00 am - 10.00 am,23.1 PLY ,09.00 am,10.00 am,9.0,10.0,1.0,4,1,23.1,,0
+B2 Floor,C2-105,200.0,40.0,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+B2 Floor,C2-105,200.0,40.0,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+B2 Floor,C2-105,200.0,40.0,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+B2 Floor,C2-105,200.0,40.0,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+B2 Floor,C2-105,200.0,40.0,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B2 Floor,C2-105,200.0,40.0,Friday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,4,0,,,0
+B2 Floor,C2-105,200.0,40.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B2 Floor,C2-105,200.0,40.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B2 Floor,C2-105,200.0,40.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B2 Floor,C2-105,200.0,40.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B2 Floor,C2-105,200.0,40.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B2 Floor,C2-105,200.0,40.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B2 Floor,C2-105,200.0,40.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B2 Floor,C2-105,200.0,40.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B2 Floor,C2-105,200.0,40.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B2 Floor,C2-105,200.0,40.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B2 Floor,C2-105,200.0,40.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B2 Floor,C2-105,200.0,40.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B2 Floor,C2-105,200.0,40.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B2 Floor,C2-105,200.0,40.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B2 Floor,C2-105,200.0,40.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B2 Floor,C2-105,200.0,40.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B2 Floor,C2-105,200.0,40.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B2 Floor,C2-106,100.0,40.0,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B2 Floor,C2-106,100.0,40.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B2 Floor,C2-106,100.0,40.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B2 Floor,C2-106,100.0,40.0,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+B2 Floor,C2-106,100.0,40.0,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B2 Floor,C2-106,100.0,40.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B2 Floor,C2-106,100.0,40.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B2 Floor,C2-106,100.0,40.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B2 Floor,C2-106,100.0,40.0,Tuesday,09.00 am - 10.00 am,FDN 24.2,09.00 am,10.00 am,9.0,10.0,1.0,1,1,24.2,,0
+B2 Floor,C2-106,100.0,40.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B2 Floor,C2-106,100.0,40.0,Tuesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,1,0,,,0
+B2 Floor,C2-106,100.0,40.0,Tuesday,12.00 pm - 01.00 pm,24.1 Group B Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,1,1,24.1,B,1
+B2 Floor,C2-106,100.0,40.0,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+B2 Floor,C2-106,100.0,40.0,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B2 Floor,C2-106,100.0,40.0,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B2 Floor,C2-106,100.0,40.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B2 Floor,C2-106,100.0,40.0,Wednesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,2,0,,,0
+B2 Floor,C2-106,100.0,40.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B2 Floor,C2-106,100.0,40.0,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B2 Floor,C2-106,100.0,40.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B2 Floor,C2-106,100.0,40.0,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B2 Floor,C2-106,100.0,40.0,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+B2 Floor,C2-106,100.0,40.0,Wednesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,2,0,,,0
+B2 Floor,C2-106,100.0,40.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B2 Floor,C2-106,100.0,40.0,Thursday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,3,0,,,0
+B2 Floor,C2-106,100.0,40.0,Thursday,10.00 am - 11.00 am,22.2/23.1 UGC Tute,10.00 am,11.00 am,10.0,11.0,1.0,3,1,22.2,,1
+B2 Floor,C2-106,100.0,40.0,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B2 Floor,C2-106,100.0,40.0,Thursday,12.00 pm - 01.00 pm,24.1 Group A Tute,12.00 pm,01.00 pm,12.0,13.0,1.0,3,1,24.1,A,1
+B2 Floor,C2-106,100.0,40.0,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B2 Floor,C2-106,100.0,40.0,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+B2 Floor,C2-106,100.0,40.0,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+B2 Floor,C2-106,100.0,40.0,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+B2 Floor,C2-106,100.0,40.0,Friday,09.00 am - 10.00 am,23.2 Group B Tute,09.00 am,10.00 am,9.0,10.0,1.0,4,1,23.2,B,1
+B2 Floor,C2-106,100.0,40.0,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+B2 Floor,C2-106,100.0,40.0,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+B2 Floor,C2-106,100.0,40.0,Friday,12.00 pm - 01.00 pm,24.1 Group B,12.00 pm,01.00 pm,12.0,13.0,1.0,4,1,24.1,B,0
+B2 Floor,C2-106,100.0,40.0,Friday,01.00 pm - 02.00 pm,24.1 Group B,01.00 pm,02.00 pm,13.0,14.0,1.0,4,1,24.1,B,0
+B2 Floor,C2-106,100.0,40.0,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B2 Floor,C2-106,100.0,40.0,Friday,03.00 pm - 04.00 pm,23.2 Group B,03.00 pm,04.00 pm,15.0,16.0,1.0,4,1,23.2,B,0
+B2 Floor,C2-106,100.0,40.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B2 Floor,C2-106,100.0,40.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B2 Floor,C2-106,100.0,40.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B2 Floor,C2-106,100.0,40.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B2 Floor,C2-106,100.0,40.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B2 Floor,C2-106,100.0,40.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B2 Floor,C2-106,100.0,40.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B2 Floor,C2-106,100.0,40.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B2 Floor,C2-106,100.0,40.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B2 Floor,C2-106,100.0,40.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B2 Floor,C2-106,100.0,40.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B2 Floor,C2-106,100.0,40.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B2 Floor,C2-106,100.0,40.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B2 Floor,C2-106,100.0,40.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B2 Floor,C2-106,100.0,40.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B2 Floor,C2-106,100.0,40.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B2 Floor,C2-106,100.0,40.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
+B2 Floor,C2-103,70.0,40.0,Monday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,0,0,,,0
+B2 Floor,C2-103,70.0,40.0,Monday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,0,0,,,0
+B2 Floor,C2-103,70.0,40.0,Monday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,0,0,,,0
+B2 Floor,C2-103,70.0,40.0,Monday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,0,0,,,0
+B2 Floor,C2-103,70.0,40.0,Monday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,0,0,,,0
+B2 Floor,C2-103,70.0,40.0,Monday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,0,0,,,0
+B2 Floor,C2-103,70.0,40.0,Monday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,0,0,,,0
+B2 Floor,C2-103,70.0,40.0,Monday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,0,0,,,0
+B2 Floor,C2-103,70.0,40.0,Tuesday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,1,0,,,0
+B2 Floor,C2-103,70.0,40.0,Tuesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,1,0,,,0
+B2 Floor,C2-103,70.0,40.0,Tuesday,11.00 am - 12.00 pm,24.1 Group A,11.00 am,12.00 pm,11.0,12.0,1.0,1,1,24.1,A,0
+B2 Floor,C2-103,70.0,40.0,Tuesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,1,0,,,0
+B2 Floor,C2-103,70.0,40.0,Tuesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,1,0,,,0
+B2 Floor,C2-103,70.0,40.0,Tuesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,1,0,,,0
+B2 Floor,C2-103,70.0,40.0,Tuesday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,1,0,,,0
+B2 Floor,C2-103,70.0,40.0,Tuesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,1,0,,,0
+B2 Floor,C2-103,70.0,40.0,Wednesday,09.00 am - 10.00 am,23.1 PLY ,09.00 am,10.00 am,9.0,10.0,1.0,2,1,23.1,,0
+B2 Floor,C2-103,70.0,40.0,Wednesday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,2,0,,,0
+B2 Floor,C2-103,70.0,40.0,Wednesday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,2,0,,,0
+B2 Floor,C2-103,70.0,40.0,Wednesday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,2,0,,,0
+B2 Floor,C2-103,70.0,40.0,Wednesday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,2,0,,,0
+B2 Floor,C2-103,70.0,40.0,Wednesday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,2,0,,,0
+B2 Floor,C2-103,70.0,40.0,Wednesday,03.00 pm - 04.00 pm,23.2 Group B,03.00 pm,04.00 pm,15.0,16.0,1.0,2,1,23.2,B,0
+B2 Floor,C2-103,70.0,40.0,Wednesday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,2,0,,,0
+B2 Floor,C2-103,70.0,40.0,Thursday,09.00 am - 10.00 am,23.2 Group A2,09.00 am,10.00 am,9.0,10.0,1.0,3,1,23.2,A2,0
+B2 Floor,C2-103,70.0,40.0,Thursday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,3,0,,,0
+B2 Floor,C2-103,70.0,40.0,Thursday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,3,0,,,0
+B2 Floor,C2-103,70.0,40.0,Thursday,12.00 pm - 01.00 pm,24.1 Group B,12.00 pm,01.00 pm,12.0,13.0,1.0,3,1,24.1,B,0
+B2 Floor,C2-103,70.0,40.0,Thursday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,3,0,,,0
+B2 Floor,C2-103,70.0,40.0,Thursday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,3,0,,,0
+B2 Floor,C2-103,70.0,40.0,Thursday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,3,0,,,0
+B2 Floor,C2-103,70.0,40.0,Thursday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,3,0,,,0
+B2 Floor,C2-103,70.0,40.0,Friday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,4,0,,,0
+B2 Floor,C2-103,70.0,40.0,Friday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,4,0,,,0
+B2 Floor,C2-103,70.0,40.0,Friday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,4,0,,,0
+B2 Floor,C2-103,70.0,40.0,Friday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,4,0,,,0
+B2 Floor,C2-103,70.0,40.0,Friday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,4,0,,,0
+B2 Floor,C2-103,70.0,40.0,Friday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,4,0,,,0
+B2 Floor,C2-103,70.0,40.0,Friday,03.00 pm - 04.00 pm,23.2 Group A1,03.00 pm,04.00 pm,15.0,16.0,1.0,4,1,23.2,A1,0
+B2 Floor,C2-103,70.0,40.0,Friday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,4,0,,,0
+B2 Floor,C2-103,70.0,40.0,Saturday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,5,0,,,0
+B2 Floor,C2-103,70.0,40.0,Saturday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,5,0,,,0
+B2 Floor,C2-103,70.0,40.0,Saturday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,5,0,,,0
+B2 Floor,C2-103,70.0,40.0,Saturday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,5,0,,,0
+B2 Floor,C2-103,70.0,40.0,Saturday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,5,0,,,0
+B2 Floor,C2-103,70.0,40.0,Saturday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,5,0,,,0
+B2 Floor,C2-103,70.0,40.0,Saturday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,5,0,,,0
+B2 Floor,C2-103,70.0,40.0,Saturday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,5,0,,,0
+B2 Floor,C2-103,70.0,40.0,Sunday,09.00 am - 10.00 am,Available,09.00 am,10.00 am,9.0,10.0,1.0,6,0,,,0
+B2 Floor,C2-103,70.0,40.0,Sunday,10.00 am - 11.00 am,Available,10.00 am,11.00 am,10.0,11.0,1.0,6,0,,,0
+B2 Floor,C2-103,70.0,40.0,Sunday,11.00 am - 12.00 pm,Available,11.00 am,12.00 pm,11.0,12.0,1.0,6,0,,,0
+B2 Floor,C2-103,70.0,40.0,Sunday,12.00 pm - 01.00 pm,Available,12.00 pm,01.00 pm,12.0,13.0,1.0,6,0,,,0
+B2 Floor,C2-103,70.0,40.0,Sunday,01.00 pm - 02.00 pm,Available,01.00 pm,02.00 pm,13.0,14.0,1.0,6,0,,,0
+B2 Floor,C2-103,70.0,40.0,Sunday,02.00 pm - 03.00 pm,Available,02.00 pm,03.00 pm,14.0,15.0,1.0,6,0,,,0
+B2 Floor,C2-103,70.0,40.0,Sunday,03.00 pm - 04.00 pm,Available,03.00 pm,04.00 pm,15.0,16.0,1.0,6,0,,,0
+B2 Floor,C2-103,70.0,40.0,Sunday,04.00 pm - 05.00 pm,Available,04.00 pm,05.00 pm,16.0,17.0,1.0,6,0,,,0
