@@ -9,7 +9,7 @@ from hall_recommender import LectureHallRecommender
 
 print("Loading data...")
 # Load the data
-df = pd.read_csv('lecture_hall_allocations_final.csv')
+df = pd.read_csv('data/lecture_hall_allocations_final.csv')
 
 # Create capacity bins if not already present
 if 'Capacity_Bin' not in df.columns:
@@ -17,7 +17,7 @@ if 'Capacity_Bin' not in df.columns:
                                labels=['Small', 'Medium', 'Large', 'Extra Large'])
 
 # Load the improved model
-model = joblib.load('improved_lecture_hall_model.pkl')
+model = joblib.load('models/improved_lecture_hall_model.pkl')
 
 class LectureHallRecommender:
     def __init__(self, data):
@@ -276,7 +276,7 @@ def get_hall_recommendation(required_capacity, day, start_time, end_time, is_tut
 
 # Save the recommender to be used by the web interface
 print("\nSaving recommender model...")
-joblib.dump(recommender, 'lecture_hall_recommender.pkl')
+joblib.dump(recommender, 'models/lecture_hall_recommender.pkl')
 
 
 # Create visualizations for the recommender

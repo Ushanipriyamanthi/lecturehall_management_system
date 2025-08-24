@@ -8,8 +8,8 @@ from hall_recommender import LectureHallRecommender
 app = Flask(__name__)
 
 # Load models
-model_path = 'improved_lecture_hall_model.pkl'
-recommender_path = 'lecture_hall_recommender.pkl'
+model_path = 'models/improved_lecture_hall_model.pkl'
+recommender_path = 'models/lecture_hall_recommender.pkl'
 
 # Check if models exist
 if os.path.exists(model_path):
@@ -24,7 +24,7 @@ else:
 
 # Load data for populating dropdowns
 try:
-    df = pd.read_csv('lecture_hall_allocations_final.csv')
+    df = pd.read_csv('data/lecture_hall_allocations_final.csv')
     floors = sorted(df['Floor'].unique())
     hall_nos = sorted(df['Hall_No'].unique())
     days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
